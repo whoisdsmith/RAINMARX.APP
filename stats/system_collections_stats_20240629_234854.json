@@ -1,0 +1,25 @@
+{
+    "result": true,
+    "items": [
+        {
+            "_id": 0,
+            "count": 50561
+        },
+        {
+            "_id": -1,
+            "count": 0
+        },
+        {
+            "_id": -99,
+            "count": 9
+        }
+    ],
+    "meta": {
+        "_id": 550437,
+        "changedBookmarksDate": "2024-06-30T01:09:55.860Z",
+        "pro": true,
+        "broken": {
+            "count": 99
+        }
+    }
+}
