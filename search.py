@@ -1,8 +1,23 @@
 import requests
 import config
 import json
+import os
 
 BASE_URL = 'https://api.raindrop.io/rest/v1'
+
+
+def save_results(query, results):
+    # Create searchresults directory if it doesn't exist
+    os.makedirs('searchresults', exist_ok=True)
+
+    # Sanitize the query for use in a filename
+    sanitized_query = "".join(c if c.isalnum() else "_" for c in query)
+    filename = f"searchresults/{sanitized_query}.json"
+
+    with open(filename, 'w') as f:
+        json.dump(results, f, indent=2)
+
+    print(f"Results saved to {filename}")
 
 
 def search_collections(query):
@@ -12,6 +27,7 @@ def search_collections(query):
         collections = response.json().get('items', [])
         result = [col for col in collections if query.lower()
                   in col['title'].lower()]
+        save_results(query, result)
         return result
     except requests.exceptions.JSONDecodeError as e:
         print(f"Error decoding JSON response: {e}")
@@ -45,6 +61,7 @@ def search_bookmarks(query):
             print(f"Error decoding JSON response for bookmarks in collection {collection_id}: {e}")
             print(f"Response content: {response.text}")
 
+    save_results(query, result)
     return result
 
 
@@ -58,14 +75,12 @@ def cli_search():
 
         if choice == '1':
             query = input("Enter collection name or ID to search: ")
-            result = search_collections(query)
-            print(json.dumps(result, indent=2))
+            search_collections(query)
 
         elif choice == '2':
             query = input(
                 "Enter bookmark name, tag, URL, excerpt, note title, or date to search: ")
-            result = search_bookmarks(query)
-            print(json.dumps(result, indent=2))
+            search_bookmarks(query)
 
         elif choice == '3':
             break

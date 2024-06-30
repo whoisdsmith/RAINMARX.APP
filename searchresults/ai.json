@@ -1,0 +1,1489 @@
+[
+  {
+    "_id": 682651411,
+    "link": "https://explore2.marginalia.nu/search?domain=https%3A%2F%2Fmetaphor.systems",
+    "title": "Websites Similar To metaphor.systems",
+    "excerpt": "",
+    "note": "",
+    "type": "link",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://up.raindrop.io/raindrop/thumbs/682/651/411/1700623173515.jpeg",
+    "media": [
+      {
+        "link": "https://up.raindrop.io/raindrop/thumbs/682/651/411/1700623173515.jpeg",
+        "type": "image"
+      }
+    ],
+    "tags": [
+      "Search",
+      "similarsites"
+    ],
+    "important": false,
+    "reminder": {
+      "date": null
+    },
+    "removed": false,
+    "created": "2023-11-22T03:19:32.284Z",
+    "lastUpdate": "2023-11-22T03:19:33.997Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": 38634720,
+      "oid": 38634720
+    },
+    "highlights": [],
+    "domain": "explore2.marginalia.nu",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 682651411,
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 4158,
+      "created": "2024-05-03T08:44:41.969Z"
+    },
+    "collectionId": 38634720
+  },
+  {
+    "_id": 667987198,
+    "link": "https://www.findemails.com/",
+    "title": "Email Finder",
+    "excerpt": "Sales, marketing, and recruiting professionals use our tools to find emails, verify emails, and buy email lists. 98% accuracy. Get 50 leads for free.",
+    "note": "",
+    "type": "link",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://www.findemails.com/find_emails_logo.png",
+    "media": [
+      {
+        "link": "https://www.findemails.com/find_emails_logo.png",
+        "type": "image"
+      },
+      {
+        "link": "https://www.findemails.com/assets/SearchByName_Graphic-48570a34454ff8f8e0d6c061600c09ce94399065f99b588354a8372bc039eccb.png",
+        "type": "image"
+      },
+      {
+        "link": "https://www.findemails.com/assets/SearchCompanyJob_Graphic-b54fdeefb177f9c25af550bc4c14d9641a54d35e633ee8c9b5633f69c01798c9.png",
+        "type": "image"
+      },
+      {
+        "link": "https://www.findemails.com/assets/verifiedemail_graphic-32e6a790734be1343408650e17e7d6e91d55f48561bae0ec74b39b72948db2c5.png",
+        "type": "image"
+      },
+      {
+        "link": "https://www.findemails.com/assets/API_Code_Graphic-e3d04d27b5bf87c5a79b2899174617e76866324c73e8cd91f1d29620b5c944fe.png",
+        "type": "image"
+      }
+    ],
+    "tags": [
+      "Search",
+      "mthrfckr",
+      "email"
+    ],
+    "important": false,
+    "reminder": {
+      "date": null
+    },
+    "removed": false,
+    "created": "2023-10-26T01:50:10.663Z",
+    "lastUpdate": "2023-10-26T01:50:10.663Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": 38634720,
+      "oid": 38634720
+    },
+    "highlights": [],
+    "domain": "findemails.com",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 667987198,
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 812261,
+      "created": "2024-05-03T08:51:14.064Z"
+    },
+    "collectionId": 38634720
+  },
+  {
+    "_id": 787271795,
+    "link": "https://github.com/sun-jiao/flut-renamer",
+    "title": "GitHub sunjiaoflutrenamer Flut Renamer A bulk file renamer written in flutter dart Available on Linux Windows Android iOS and macOS",
+    "excerpt": "Flut Renamer  A bulk file renamer written in flutter dart Available on Linux Windows Android iOS and macOS  sunjiaoflutrenamer",
+    "note": "",
+    "type": "link",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://repository-images.githubusercontent.com/665848966/6e39dbed-0389-4639-9915-3fd7d166f469",
+    "media": [
+      {
+        "link": "https://repository-images.githubusercontent.com/665848966/6e39dbed-0389-4639-9915-3fd7d166f469",
+        "type": "image"
+      },
+      {
+        "link": "https://github.com/sun-jiao/flut-renamer/raw/main/assets/play-feature-graphic.png?raw=true",
+        "type": "image"
+      },
+      {
+        "link": "https://github.com/sun-jiao/flut-renamer/raw/main/screenshots/Desktop-1.png?raw=true",
+        "type": "image"
+      },
+      {
+        "link": "https://github.com/sun-jiao/flut-renamer/raw/main/screenshots/Desktop-3.png?raw=true",
+        "type": "image"
+      },
+      {
+        "link": "https://github.com/sun-jiao/flut-renamer/raw/main/screenshots/Seven-inch_Tablet-0.png?raw=true",
+        "type": "image"
+      }
+    ],
+    "tags": [
+      "files"
+    ],
+    "highlights": [],
+    "important": false,
+    "removed": false,
+    "created": "2024-05-18T00:30:46.579Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": 38657157,
+      "oid": 38657157
+    },
+    "lastUpdate": "2024-06-29T22:47:07.986Z",
+    "domain": "github.com",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 787272617,
+    "cache": {
+      "status": "ready",
+      "size": 5505491,
+      "created": "2024-05-18T00:31:52.630Z"
+    },
+    "broken": false,
+    "collectionId": 38657157
+  },
+  {
+    "_id": 698538155,
+    "link": "https://claude.ai",
+    "title": "Claude",
+    "excerpt": "Talk with Claude an AI assistant from Anthropic",
+    "note": "",
+    "type": "link",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://claude.ai/images/opengraph-image@2x.png",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://claude.ai/images/opengraph-image@2x.png"
+      }
+    ],
+    "tags": [],
+    "removed": false,
+    "created": "2023-12-18T21:34:42.000Z",
+    "lastUpdate": "2024-06-29T22:59:03.977Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": 38634040,
+      "oid": 38634040
+    },
+    "highlights": [],
+    "domain": "claude.ai",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 698538175,
+    "broken": false,
+    "cache": {
+      "status": "invalid-origin"
+    },
+    "collectionId": 38634040
+  },
+  {
+    "_id": 698538147,
+    "link": "https://structifi.com",
+    "title": "StructiFi AIPowered OCRData ExtractionBeta",
+    "excerpt": "An AI smart tool extracts valuable structured data from any file It excels in OCR effortlessly translating visual information from PDFs and images into actionable data Perfect for your data extraction needs Free OCR Image to Text Image to Excetl Online Tool Data Extraction File to Data AI Conversion OCR PDF Extract Image Extract StructiFi Sales lead contacts exam paper catalogs",
+    "note": "",
+    "type": "link",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://structifi.com/logo.svg",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://structifi.com/logo.svg"
+      }
+    ],
+    "tags": [],
+    "removed": false,
+    "created": "2023-12-17T20:53:53.000Z",
+    "lastUpdate": "2024-06-29T22:59:04.152Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": 38634040,
+      "oid": 38634040
+    },
+    "highlights": [],
+    "domain": "structifi.com",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 698538168,
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 1394657,
+      "created": "2024-05-05T03:41:24.844Z"
+    },
+    "collectionId": 38634040
+  },
+  {
+    "_id": 698538158,
+    "link": "https://simplescraper.io/scrapetoai?ref=futuretools.io",
+    "title": "ScrapetoAI by Simplescraper Extract data from websites for custom GPTs and LLMs",
+    "excerpt": "Extract data from websites to use in your custom GPTs and AI Large Language Models No code required",
+    "note": "",
+    "type": "link",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://simplescraper.io/easy_scraper_social.png",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://simplescraper.io/easy_scraper_social.png"
+      }
+    ],
+    "tags": [],
+    "removed": false,
+    "created": "2023-12-20T13:52:47.785Z",
+    "lastUpdate": "2024-06-29T22:59:03.553Z",
+    "collection": {
+      "$ref": "collections",
+      "$id": 38634040,
+      "oid": 38634040
+    },
+    "highlights": [],
+    "domain": "simplescraper.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 698538163,
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 95319,
+      "created": "2024-05-03T08:41:25.942Z"
+    },
+    "collectionId": 38634040
+  },
+  {
+    "_id": 713072518,
+    "link": "https://api.raindrop.io/v2/raindrop/713072518/file?type=application/pdf",
+    "title": "Messenger Facebook.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F518%2FMessenger_Facebook.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:06:17.375Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072518,
+    "file": {
+      "name": "Messenger Facebook.pdf",
+      "size": 57618,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072515,
+    "link": "https://api.raindrop.io/v2/raindrop/713072515/file?type=text/plain",
+    "title": "TawnieFB.txt",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F515%2FTawnie_FB.txt",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:06:16.668Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072515,
+    "file": {
+      "name": "TawnieFB.txt",
+      "size": 856535,
+      "type": "text/plain"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:45.209Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072514,
+    "link": "https://api.raindrop.io/v2/raindrop/713072514/file?type=text/plain",
+    "title": "Tawnieall.txt",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F514%2FTawnieall.txt",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:06:16.585Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072514,
+    "file": {
+      "name": "Tawnieall.txt",
+      "size": 1745005,
+      "type": "text/plain"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:45.209Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072513,
+    "link": "https://api.raindrop.io/v2/raindrop/713072513/file?type=text/plain",
+    "title": "TawnieSMS.txt",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F513%2FTawnie_SMS.txt",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:06:16.118Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072513,
+    "file": {
+      "name": "TawnieSMS.txt",
+      "size": 812203,
+      "type": "text/plain"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:53.818Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072512,
+    "link": "https://api.raindrop.io/v2/raindrop/713072512/file?type=text/plain",
+    "title": "Tawnie2.txt",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F512%2FTawnie2.txt",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:06:15.760Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072512,
+    "file": {
+      "name": "Tawnie2.txt",
+      "size": 169765,
+      "type": "text/plain"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:45.209Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072511,
+    "link": "https://api.raindrop.io/v2/raindrop/713072511/file?type=text/plain",
+    "title": "Tawnie1.txt",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F511%2FTawnie1.txt",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:06:15.660Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072511,
+    "file": {
+      "name": "Tawnie1.txt",
+      "size": 187014,
+      "type": "text/plain"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:45.209Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072510,
+    "link": "https://api.raindrop.io/v2/raindrop/713072510/file?type=application/pdf",
+    "title": "Messages.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F510%2FMessages.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:06:15.658Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072510,
+    "file": {
+      "name": "Messages.pdf",
+      "size": 142116,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072509,
+    "link": "https://api.raindrop.io/v2/raindrop/713072509/file?type=text/plain",
+    "title": "Tawnie4.txt",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F509%2FTawnie4.txt",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:06:15.605Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072509,
+    "file": {
+      "name": "Tawnie4.txt",
+      "size": 158094,
+      "type": "text/plain"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:45.209Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072507,
+    "link": "https://api.raindrop.io/v2/raindrop/713072507/file?type=text/plain",
+    "title": "Tawnie9.txt",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F507%2FTawnie9.txt",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:06:15.539Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072507,
+    "file": {
+      "name": "Tawnie9.txt",
+      "size": 174865,
+      "type": "text/plain"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:45.209Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072505,
+    "link": "https://api.raindrop.io/v2/raindrop/713072505/file?type=text/plain",
+    "title": "Tawnie8.txt",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F505%2FTawnie8.txt",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:06:15.309Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072505,
+    "file": {
+      "name": "Tawnie8.txt",
+      "size": 191174,
+      "type": "text/plain"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:45.209Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072504,
+    "link": "https://api.raindrop.io/v2/raindrop/713072504/file?type=text/plain",
+    "title": "Tawnie2011.txt",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F504%2FTawnie2011.txt",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:06:15.007Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072504,
+    "file": {
+      "name": "Tawnie2011.txt",
+      "size": 1896,
+      "type": "text/plain"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072418,
+    "link": "https://api.raindrop.io/v2/raindrop/713072418/file?type=application/pdf",
+    "title": "Chapter 8 The More You Talk The Less I Hear.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F418%2FChapter_8_The_More_You_Talk_The_Less_I_Hear.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:24.648Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072418,
+    "file": {
+      "name": "Chapter 8 The More You Talk The Less I Hear.pdf",
+      "size": 41325,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072414,
+    "link": "https://api.raindrop.io/v2/raindrop/713072414/file?type=application/pdf",
+    "title": "Chapter 3 The Truth About Heaven.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F414%2FChapter_3_The_Truth_About_Heaven.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:23.992Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072414,
+    "file": {
+      "name": "Chapter 3 The Truth About Heaven.pdf",
+      "size": 41334,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072412,
+    "link": "https://api.raindrop.io/v2/raindrop/713072412/file?type=application/pdf",
+    "title": "Chapter 1 One Last Regret.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F412%2FChapter_1_One_Last_Regret.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:23.985Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072412,
+    "file": {
+      "name": "Chapter 1 One Last Regret.pdf",
+      "size": 39177,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072408,
+    "link": "https://api.raindrop.io/v2/raindrop/713072408/file?type=application/pdf",
+    "title": "Chapter 5 Awkward Last Words.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F408%2FChapter_5_Awkward_Last_Words.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:23.959Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072408,
+    "file": {
+      "name": "Chapter 5 Awkward Last Words.pdf",
+      "size": 40965,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072403,
+    "link": "https://api.raindrop.io/v2/raindrop/713072403/file?type=application/pdf",
+    "title": "Chapter 01.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F403%2FChapter_01.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:23.058Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072403,
+    "file": {
+      "name": "Chapter 01.pdf",
+      "size": 39912,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072402,
+    "link": "https://api.raindrop.io/v2/raindrop/713072402/file?type=application/pdf",
+    "title": "The Casket Diaries.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F402%2FThe_Casket_Diaries.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:23.064Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072402,
+    "file": {
+      "name": "The Casket Diaries.pdf",
+      "size": 118635,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072398,
+    "link": "https://api.raindrop.io/v2/raindrop/713072398/file?type=application/pdf",
+    "title": "Chapter 6 Stay On The Ground.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F398%2FChapter_6_Stay_On_The_Ground.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:22.835Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072398,
+    "file": {
+      "name": "Chapter 6 Stay On The Ground.pdf",
+      "size": 39493,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072397,
+    "link": "https://api.raindrop.io/v2/raindrop/713072397/file?type=application/pdf",
+    "title": "2005.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F397%2F2005.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:22.831Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072397,
+    "file": {
+      "name": "2005.pdf",
+      "size": 61079,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072396,
+    "link": "https://api.raindrop.io/v2/raindrop/713072396/file?type=application/pdf",
+    "title": "Chapter 2 Car Underwater.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F396%2FChapter_2_Car_Underwater.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:22.800Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072396,
+    "file": {
+      "name": "Chapter 2 Car Underwater.pdf",
+      "size": 39775,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072393,
+    "link": "https://api.raindrop.io/v2/raindrop/713072393/file?type=application/pdf",
+    "title": "August.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F393%2FAugust.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:22.256Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072393,
+    "file": {
+      "name": "August.pdf",
+      "size": 72787,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072392,
+    "link": "https://api.raindrop.io/v2/raindrop/713072392/file?type=application/pdf",
+    "title": "Chapter 13 The End Of A Fraud.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F392%2FChapter_13_The_End_Of_A_Fraud.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:22.172Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072392,
+    "file": {
+      "name": "Chapter 13 The End Of A Fraud.pdf",
+      "size": 39230,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072390,
+    "link": "https://api.raindrop.io/v2/raindrop/713072390/file?type=application/pdf",
+    "title": "Chapter 7 A Quick Little Flight.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F390%2FChapter_7_A_Quick_Little_Flight.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:22.131Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072390,
+    "file": {
+      "name": "Chapter 7 A Quick Little Flight.pdf",
+      "size": 40896,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072389,
+    "link": "https://api.raindrop.io/v2/raindrop/713072389/file?type=application/pdf",
+    "title": "Chapter 4 Remember To Feel Real.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F389%2FChapter_4_Remember_To_Feel_Real.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:22.096Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072389,
+    "file": {
+      "name": "Chapter 4 Remember To Feel Real.pdf",
+      "size": 40459,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.117Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  },
+  {
+    "_id": 713072386,
+    "link": "https://api.raindrop.io/v2/raindrop/713072386/file?type=application/pdf",
+    "title": "Chapter 10 Walking At Night, Alone.pdf",
+    "excerpt": "",
+    "note": "",
+    "type": "document",
+    "user": {
+      "$ref": "users",
+      "$id": 550437
+    },
+    "cover": "https://rdl.ink/render/https%3A%2F%2Fup.raindrop.io%2Fraindrop%2Ffiles%2F713%2F072%2F386%2FChapter_10_Walking_At_Night_Alone.pdf",
+    "tags": [
+      "personal",
+      "files"
+    ],
+    "removed": false,
+    "collection": {
+      "$ref": "collections",
+      "$id": 39415170,
+      "oid": 39415170
+    },
+    "media": [],
+    "created": "2024-01-12T22:05:22.084Z",
+    "lastUpdate": "2024-01-13T01:29:21.860Z",
+    "domain": "up.raindrop.io",
+    "creatorRef": {
+      "_id": 550437,
+      "name": "whoisdsmith",
+      "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+      "email": ""
+    },
+    "sort": 713072386,
+    "file": {
+      "name": "Chapter 10 Walking At Night, Alone.pdf",
+      "size": 39643,
+      "type": "application/pdf"
+    },
+    "broken": false,
+    "cache": {
+      "status": "ready",
+      "size": 0,
+      "created": "2024-05-03T08:40:38.360Z"
+    },
+    "highlights": [],
+    "collectionId": 39415170
+  }
+]

@@ -1,9 +1,10 @@
 import subprocess
 import time
 import pyfiglet
-import threading
 
 # Function to display ASCII art title
+
+
 def print_intro():
     title = pyfiglet.figlet_format("RAINMARX", font="slant")
     print(title)
@@ -12,6 +13,8 @@ def print_intro():
     print("=" * 60)
 
 # Function to handle the main menu
+
+
 def main_menu():
     while True:
         print("\nChoose an option:")
@@ -37,21 +40,12 @@ def main_menu():
         else:
             print("Invalid choice. Please try again.")
 
-# Function to run the main menu with a timeout
+
 def main():
     print_intro()
     time.sleep(2)
+    main_menu()
 
-    # Start the main menu in a separate thread
-    menu_thread = threading.Thread(target=main_menu)
-    menu_thread.start()
-
-    # Wait for the thread to finish or timeout
-    menu_thread.join(timeout=15)
-
-    if menu_thread.is_alive():
-        print("\nNo activity detected. Exiting automatically... Goodbye!")
-        menu_thread.join()  # Ensure the thread is properly terminated
 
 if __name__ == "__main__":
     main()
