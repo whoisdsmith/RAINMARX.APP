@@ -22,7 +22,9 @@ def main_menu():
         print("2. Get parent collection by ID.")
         print("3. Update bookmarks from a collection.")
         print("4. Search")
-        print("5. Exit")
+        print("5. Get user stats")
+        print("6. Get user collection groups")
+        print("7. Exit")
 
         choice = input("Enter your choice: ")
 
@@ -35,6 +37,10 @@ def main_menu():
         elif choice == '4':
             subprocess.run(["python3", "search.py"])
         elif choice == '5':
+            subprocess.run(["python3", "stats.py"])
+        elif choice == '6':
+            subprocess.run(["python3", "overview.py"])
+        elif choice == '7':
             print("Exiting... Goodbye!")
             break
         else:

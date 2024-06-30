@@ -1,0 +1,59 @@
+2024-06-30 00:11:07,308 - INFO - Starting bookmark retrieval
+2024-06-30 00:11:07,308 - INFO - Starting retrieval of all bookmarks
+2024-06-30 00:11:08,255 - INFO - Fetched 19 root collections
+2024-06-30 00:11:11,438 - INFO - Fetched 2027 child collections
+2024-06-30 00:11:11,939 - INFO - Processing collection 38657439 (TECH-MTHRFCKR)
+2024-06-30 00:11:12,946 - INFO - Fetched total 0 bookmarks for collection 38657439
+2024-06-30 00:11:12,946 - INFO - Processed collection 1/2046: 38657439 (TECH-MTHRFCKR). Bookmarks: 0. Time taken: 0:00:01.007465. Total bookmarks so far: 0. Elapsed time: 0:00:01.007465
+2024-06-30 00:11:12,946 - INFO - Processing collection 38657503 (WEBDEV-MTHRFCKR)
+2024-06-30 00:11:13,903 - INFO - Fetched total 5 bookmarks for collection 38657503
+2024-06-30 00:11:13,910 - INFO - Processed collection 2/2046: 38657503 (WEBDEV-MTHRFCKR). Bookmarks: 5. Time taken: 0:00:00.964371. Total bookmarks so far: 5. Elapsed time: 0:00:01.971836
+2024-06-30 00:11:13,910 - INFO - Processing collection 38657486 (TOOLS-MTHRFCKR)
+2024-06-30 00:11:14,924 - INFO - Fetched total 5 bookmarks for collection 38657486
+2024-06-30 00:11:14,924 - INFO - Processed collection 3/2046: 38657486 (TOOLS-MTHRFCKR). Bookmarks: 5. Time taken: 0:00:01.013592. Total bookmarks so far: 10. Elapsed time: 0:00:02.985428
+2024-06-30 00:11:14,924 - INFO - Processing collection 38634720 (SEARCH-PARTY-MTHRFCKR)
+2024-06-30 00:11:16,050 - INFO - Fetched total 40 bookmarks for collection 38634720
+2024-06-30 00:11:16,050 - INFO - Processed collection 4/2046: 38634720 (SEARCH-PARTY-MTHRFCKR). Bookmarks: 40. Time taken: 0:00:01.126127. Total bookmarks so far: 50. Elapsed time: 0:00:04.111555
+2024-06-30 00:11:16,050 - INFO - Processing collection 38657415 (SOCIAL-MTHRFCKR)
+2024-06-30 00:11:17,377 - INFO - Fetched total 0 bookmarks for collection 38657415
+2024-06-30 00:11:17,377 - INFO - Processed collection 5/2046: 38657415 (SOCIAL-MTHRFCKR). Bookmarks: 0. Time taken: 0:00:01.327195. Total bookmarks so far: 50. Elapsed time: 0:00:05.438750
+2024-06-30 00:11:17,377 - INFO - Processing collection 38657312 (REFERENCE-MTHRFCKR)
+2024-06-30 00:11:18,844 - INFO - Fetched total 0 bookmarks for collection 38657312
+2024-06-30 00:11:18,845 - INFO - Processed collection 6/2046: 38657312 (REFERENCE-MTHRFCKR). Bookmarks: 0. Time taken: 0:00:01.467915. Total bookmarks so far: 50. Elapsed time: 0:00:06.906665
+2024-06-30 00:11:18,845 - INFO - Processing collection 38657294 (PROGAMMING-MTHRFCKR)
+2024-06-30 00:11:19,937 - INFO - Fetched total 6 bookmarks for collection 38657294
+2024-06-30 00:11:19,937 - INFO - Processed collection 7/2046: 38657294 (PROGAMMING-MTHRFCKR). Bookmarks: 6. Time taken: 0:00:01.090874. Total bookmarks so far: 56. Elapsed time: 0:00:07.998387
+2024-06-30 00:11:19,937 - INFO - Processing collection 38657253 (PRODUCTIVITY-MTHRFCKR)
+2024-06-30 00:11:21,101 - INFO - Fetched total 0 bookmarks for collection 38657253
+2024-06-30 00:11:21,102 - INFO - Processed collection 8/2046: 38657253 (PRODUCTIVITY-MTHRFCKR). Bookmarks: 0. Time taken: 0:00:01.165316. Total bookmarks so far: 56. Elapsed time: 0:00:09.163703
+2024-06-30 00:11:21,102 - INFO - Processing collection 38634492 (OSINT-MTHRFCKR)
+2024-06-30 00:11:22,225 - INFO - Fetched total 0 bookmarks for collection 38634492
+2024-06-30 00:11:22,225 - INFO - Processed collection 9/2046: 38634492 (OSINT-MTHRFCKR). Bookmarks: 0. Time taken: 0:00:01.121810. Total bookmarks so far: 56. Elapsed time: 0:00:10.286514
+2024-06-30 00:11:22,226 - INFO - Processing collection 38657191 (MEDIA-MTHRFCKR)
+2024-06-30 00:11:23,567 - INFO - Fetched total 0 bookmarks for collection 38657191
+2024-06-30 00:11:23,567 - INFO - Processed collection 10/2046: 38657191 (MEDIA-MTHRFCKR). Bookmarks: 0. Time taken: 0:00:01.340617. Total bookmarks so far: 56. Elapsed time: 0:00:11.628279
+2024-06-30 00:11:23,567 - INFO - Processing collection 38657157 (DEV-MTHRFCKR)
+2024-06-30 00:11:24,627 - INFO - Fetched total 7 bookmarks for collection 38657157
+2024-06-30 00:11:24,627 - INFO - Processed collection 11/2046: 38657157 (DEV-MTHRFCKR). Bookmarks: 7. Time taken: 0:00:01.060545. Total bookmarks so far: 63. Elapsed time: 0:00:12.688824
+2024-06-30 00:11:24,627 - INFO - Processing collection 38657056 (BROWSR-MTHRFCKR)
+2024-06-30 00:11:25,564 - INFO - Fetched total 0 bookmarks for collection 38657056
+2024-06-30 00:11:25,564 - INFO - Processed collection 12/2046: 38657056 (BROWSR-MTHRFCKR). Bookmarks: 0. Time taken: 0:00:00.936623. Total bookmarks so far: 63. Elapsed time: 0:00:13.625448
+2024-06-30 00:11:25,564 - INFO - Processing collection 38657137 (DESGN-MTHRFCKR)
+2024-06-30 00:11:26,676 - INFO - Fetched total 0 bookmarks for collection 38657137
+2024-06-30 00:11:26,677 - INFO - Processed collection 13/2046: 38657137 (DESGN-MTHRFCKR). Bookmarks: 0. Time taken: 0:00:01.112487. Total bookmarks so far: 63. Elapsed time: 0:00:14.737935
+2024-06-30 00:11:26,677 - INFO - Processing collection 38656840 (BOOKMRKS-MTHRFCKR)
+2024-06-30 00:11:28,029 - INFO - Fetched total 5 bookmarks for collection 38656840
+2024-06-30 00:11:28,035 - INFO - Processed collection 14/2046: 38656840 (BOOKMRKS-MTHRFCKR). Bookmarks: 5. Time taken: 0:00:01.357991. Total bookmarks so far: 68. Elapsed time: 0:00:16.095925
+2024-06-30 00:11:28,036 - INFO - Processing collection 39229095 (AUDIO-MTHRFCKR)
+2024-06-30 00:11:29,095 - INFO - Fetched total 0 bookmarks for collection 39229095
+2024-06-30 00:11:29,095 - INFO - Processed collection 15/2046: 39229095 (AUDIO-MTHRFCKR). Bookmarks: 0. Time taken: 0:00:01.058840. Total bookmarks so far: 68. Elapsed time: 0:00:17.156515
+2024-06-30 00:11:29,095 - INFO - Processing collection 38634040 (AI-MTHRFCKR)
+2024-06-30 00:11:30,319 - INFO - Fetched total 6 bookmarks for collection 38634040
+2024-06-30 00:11:30,319 - INFO - Processed collection 16/2046: 38634040 (AI-MTHRFCKR). Bookmarks: 6. Time taken: 0:00:01.223773. Total bookmarks so far: 74. Elapsed time: 0:00:18.380287
+2024-06-30 00:11:30,321 - INFO - Processing collection 38634354 (Personal)
+2024-06-30 00:11:31,344 - INFO - Fetched total 0 bookmarks for collection 38634354
+2024-06-30 00:11:31,344 - INFO - Processed collection 17/2046: 38634354 (Personal). Bookmarks: 0. Time taken: 0:00:01.023434. Total bookmarks so far: 74. Elapsed time: 0:00:19.405473
+2024-06-30 00:11:31,345 - INFO - Processing collection 38634439 (01000100)
+2024-06-30 00:11:32,565 - INFO - Fetched total 0 bookmarks for collection 38634439
+2024-06-30 00:11:32,565 - INFO - Processed collection 18/2046: 38634439 (01000100). Bookmarks: 0. Time taken: 0:00:01.219561. Total bookmarks so far: 74. Elapsed time: 0:00:20.626049
+2024-06-30 00:11:32,565 - INFO - Processing collection 39415170 (Files)
