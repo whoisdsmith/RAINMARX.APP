@@ -1,28 +1,114 @@
 # RAINMARX
 
-## Description
+RAINMARX is a command-line interface (CLI) application designed to manage your Raindrop.io bookmarks efficiently. It provides various functionalities, including retrieving collections, updating bookmarks, and searching for specific bookmarks or collections.
 
-RAINMARX is a Python application designed to interact with the Raindrop.io API. It provides various functionalities to manage and update your bookmarks and collections in Raindrop.io.
+## Features
 
-## Scripts
+- Retrieve all bookmarks and nested collections from Raindrop.io
+- Get details of a parent collection by its ID
+- Update bookmarks with sanitized titles and excerpts
+- Search for collections or bookmarks based on user queries
+- Save search results to JSON files for easy reference
 
-1. **nested.py** - Collects all bookmarks and nested collections and outputs the results to a JSON file.
-2. **collectid.py** - Prompts the user for a parent collection ID number and outputs the results to a JSON file named after the parent collection.
-3. **updatr.py** - Asks for a JSON file created by `collectid.py` for a parent collection and all its child collections and bookmarks. It retrieves the title and excerpt from each URL, sanitizes the results, and updates them back to the collection in Raindrop.io.
-4. **config.py** - Contains the configuration for the API key and headers.
-5. **utils.py** - Provides utility functions for logging, reading JSON, and sanitizing text.
+## Prerequisites
 
-## Requirements
-
-- Python 3.x
-- Requests library
+- Python 3.7 or higher
+- Raindrop.io API key
 
 ## Installation
 
-Install the required libraries using the following command:
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/yourusername/RAINMARX.git
+cd RAINMARX
+```
+
+2. **Install the required dependencies**:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Configure API headers**:
+
+Update the `config.py` file with your Raindrop.io API key:
+
+```python
+headers = {
+    'Authorization': 'Bearer YOUR_RAINDROP_API_KEY'
+}
+```
 
 ## Usage
 
-1. Run `nested.py` to collect all bookmarks and nested collections.
-2. Run `collectid.py` to collect bookmarks from a specific parent collection.
-3. Run `updatr.py` to update the titles and excerpts of bookmarks in a collection.
+### Running the Application
+
+To start the RAINMARX CLI application, run:
+
+```bash
+python RAINMARX.py
+```
+
+### Main Menu Options
+
+1. **Get all bookmarks and nested collections**:
+   - Retrieves all collections and their bookmarks, saving the structure to `nested_structure.json`.
+
+2. **Get parent collection by ID**:
+   - Prompts for a collection ID and retrieves the collection along with its bookmarks, saving the structure to a JSON file.
+
+3. **Update bookmarks from a collection**:
+   - Prompts for a JSON file containing nested collections and updates the bookmarks with sanitized titles and excerpts.
+
+4. **Search**:
+   - Provides options to search collections or bookmarks based on user queries.
+
+5. **Exit**:
+   - Exits the application.
+
+### Detailed Functionality
+
+#### Retrieve All Bookmarks and Nested Collections
+
+This option retrieves all collections and their bookmarks from Raindrop.io and saves them to `nested_structure.json`:
+
+```bash
+python nested.py
+```
+
+#### Get Parent Collection by ID
+
+This option retrieves a specific collection by its ID and saves the structure to a JSON file in the `collections` directory:
+
+```bash
+python collectid.py
+```
+
+#### Update Bookmarks
+
+This option updates bookmarks with sanitized titles and excerpts based on a provided JSON file:
+
+```bash
+python updatr.py
+```
+
+#### Search Collections and Bookmarks
+
+This option allows searching for collections or bookmarks based on user queries. The results are saved to the `searchresults` directory:
+
+```bash
+python search.py
+```
+
+## Logs
+
+The application logs important events and errors to log files located in the `logs` directory. Each script has its own log file for easier debugging and maintenance.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit a pull request or open an issue if you have any suggestions or improvements.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
