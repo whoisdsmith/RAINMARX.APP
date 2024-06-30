@@ -4,8 +4,6 @@ import pyfiglet
 import threading
 
 # Function to display ASCII art title
-
-
 def print_intro():
     title = pyfiglet.figlet_format("RAINMARX", font="slant")
     print(title)
@@ -14,15 +12,14 @@ def print_intro():
     print("=" * 60)
 
 # Function to handle the main menu
-
-
 def main_menu():
     while True:
         print("\nChoose an option:")
         print("1. Get all bookmarks and nested collections.")
         print("2. Get parent collection by ID.")
         print("3. Update bookmarks from a collection.")
-        print("4. Exit")
+        print("4. Search")
+        print("5. Exit")
 
         choice = input("Enter your choice: ")
 
@@ -33,14 +30,14 @@ def main_menu():
         elif choice == '3':
             subprocess.run(["python3", "updatr.py"])
         elif choice == '4':
+            subprocess.run(["python3", "search.py"])
+        elif choice == '5':
             print("Exiting... Goodbye!")
             break
         else:
             print("Invalid choice. Please try again.")
 
 # Function to run the main menu with a timeout
-
-
 def main():
     print_intro()
     time.sleep(2)
@@ -55,7 +52,6 @@ def main():
     if menu_thread.is_alive():
         print("\nNo activity detected. Exiting automatically... Goodbye!")
         menu_thread.join()  # Ensure the thread is properly terminated
-
 
 if __name__ == "__main__":
     main()
