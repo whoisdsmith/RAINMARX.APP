@@ -1,5 +1,7 @@
 # RAINMARX
 
+![](banner.jpg)
+
 RAINMARX is a command-line interface (CLI) application designed to manage your Raindrop.io bookmarks efficiently. It provides various functionalities, including retrieving collections, updating bookmarks, and searching for specific bookmarks or collections.
 
 ## Features
