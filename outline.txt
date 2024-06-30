@@ -1,0 +1,19 @@
+RAINMARX/
+│
+├── APP/
+│   ├── __init__.py
+│   ├── nested.py
+│   ├── collectid.py
+│   ├── updatr.py
+│   ├── config.py
+│   └── utils.py
+│
+├── scripts/
+│   ├── run_nested.py
+│   ├── run_collectid.py
+│   └── run_updatr.py
+│
+├── requirements.txt
+├── README.md
+├── setup.py
+└── logs/
