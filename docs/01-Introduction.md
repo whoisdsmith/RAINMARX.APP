@@ -29,3 +29,8 @@ For users who rely heavily on command-line workflows or who need to integrate bo
 
 For those interested in learning more about Python and API interactions, RAINMARX offers a great example of how to build a practical application that leverages external APIs. The modular design of RAINMARX makes it easy to customize and extend, allowing you to tailor the tool to your specific needs.
 
+
+
+---
+
+[<- Previous](00-TOC.md) | [Next ->](02-Installation.md)

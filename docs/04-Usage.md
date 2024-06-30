@@ -143,3 +143,8 @@ Here is an example workflow to demonstrate how you might use RAINMARX:
 6. **Exit the application**:
 
   - Select option `7` to terminate the application.
+
+
+---
+
+[<- Previous](03-Configuration.md) | [Next ->](05-Detailed_Script_Descriptions.md)

@@ -96,3 +96,8 @@ This will return your terminal to the system-wide Python environment. You can re
 
 - **Updating Dependencies**: If there are updates to the dependencies, you can update your local environment by running `pip install --upgrade -r requirements.txt`.
 - **Removing the Virtual Environment**: If you no longer need the virtual environment, you can remove it by deleting the `env` directory.
+
+
+---
+
+[<- Previous](01-Introduction.md) | [Next ->](03-Configuration.md)

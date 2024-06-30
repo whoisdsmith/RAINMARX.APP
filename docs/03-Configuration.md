@@ -154,3 +154,8 @@ You can customize the logging settings according to your needs. Here are a few c
   ```
 
 By customizing these settings, you can tailor the logging behavior to better fit your specific requirements and preferences.
+
+
+---
+
+[<- Previous](02-Installation.md) | [Next ->](04-Usage.md)

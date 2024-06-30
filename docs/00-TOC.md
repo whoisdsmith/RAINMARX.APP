@@ -9,3 +9,8 @@ Welcome to the RAINMARX CLI documentation! This Table of Contents will help you 
 5. [Detailed Script Descriptions](docs/05-Detailed_Script_Descriptions.md)
 6. [Logging](docs/06-Logging.md)
 7. [Troubleshooting](docs/07-Troubleshooting.md)
+
+
+---
+
+[Next ->](01-Introduction.md)

@@ -131,3 +131,8 @@ Log files are saved in the `logs` directory. You can access and review these fil
 
 - **Log File Structure**: Each script will have its own log file named after the script (e.g., `example_script.log`).
 - **Log Rotation**: If you are using rotating logs, older logs will be saved with a numeric suffix (e.g., `example_script.log.1`).
+
+
+---
+
+[<- Previous](05-Detailed_Script_Descriptions.md) | [Next ->](07-Troubleshooting.md)
