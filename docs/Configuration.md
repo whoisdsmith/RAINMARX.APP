@@ -1,4 +1,3 @@
-
 # Configuration
 
 ## API Token

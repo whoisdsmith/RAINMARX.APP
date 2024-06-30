@@ -1,4 +1,3 @@
-
 # Usage
 
 Run the main script to start the CLI application:

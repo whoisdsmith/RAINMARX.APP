@@ -1,4 +1,3 @@
-
 # Logging
 
 Logging is configured in `utils.py`. You can customize the logging level and format as needed. Logs are saved in the `logs` directory.

@@ -3264,3 +3264,162 @@
 2024-06-30 00:39:02,336 - INFO - Fetched total 0 bookmarks for collection 39365491
 2024-06-30 00:39:02,336 - INFO - Processed collection 1087/2046: 39365491 (Illegal Services Hub). Bookmarks: 0. Time taken: 0:00:01.073082. Total bookmarks so far: 15864. Elapsed time: 0:27:50.397856
 2024-06-30 00:39:02,336 - INFO - Processing collection 39365490 (Illegal Services)
+2024-06-30 00:39:13,901 - INFO - Fetched total 405 bookmarks for collection 39365490
+2024-06-30 00:39:13,901 - INFO - Processed collection 1088/2046: 39365490 (Illegal Services). Bookmarks: 405. Time taken: 0:00:11.564999. Total bookmarks so far: 16269. Elapsed time: 0:28:01.962855
+2024-06-30 00:39:13,901 - INFO - Processing collection 39365956 (ilCorSaRoNeRo)
+2024-06-30 00:39:14,989 - INFO - Fetched total 1 bookmarks for collection 39365956
+2024-06-30 00:39:14,989 - INFO - Processed collection 1089/2046: 39365956 (ilCorSaRoNeRo). Bookmarks: 1. Time taken: 0:00:01.087159. Total bookmarks so far: 16270. Elapsed time: 0:28:03.050014
+2024-06-30 00:39:14,989 - INFO - Processing collection 38634580 (IDENTITY RESOLUTION)
+2024-06-30 00:39:16,137 - INFO - Fetched total 2 bookmarks for collection 38634580
+2024-06-30 00:39:16,137 - INFO - Processed collection 1090/2046: 38634580 (IDENTITY RESOLUTION). Bookmarks: 2. Time taken: 0:00:01.148484. Total bookmarks so far: 16272. Elapsed time: 0:28:04.198499
+2024-06-30 00:39:16,137 - INFO - Processing collection 38634579 (ID GENERATOR)
+2024-06-30 00:39:17,152 - INFO - Fetched total 27 bookmarks for collection 38634579
+2024-06-30 00:39:17,152 - INFO - Processed collection 1091/2046: 38634579 (ID GENERATOR). Bookmarks: 27. Time taken: 0:00:01.015310. Total bookmarks so far: 16299. Elapsed time: 0:28:05.213809
+2024-06-30 00:39:17,152 - INFO - Processing collection 38657142 (Icons)
+2024-06-30 00:39:18,063 - INFO - Fetched total 27 bookmarks for collection 38657142
+2024-06-30 00:39:18,063 - INFO - Processed collection 1092/2046: 38657142 (Icons). Bookmarks: 27. Time taken: 0:00:00.910453. Total bookmarks so far: 16326. Elapsed time: 0:28:06.124262
+2024-06-30 00:39:18,063 - INFO - Processing collection 39366330 (ICANN Lookup)
+2024-06-30 00:39:19,350 - INFO - Fetched total 1 bookmarks for collection 39366330
+2024-06-30 00:39:19,350 - INFO - Processed collection 1093/2046: 39366330 (ICANN Lookup). Bookmarks: 1. Time taken: 0:00:01.287181. Total bookmarks so far: 16327. Elapsed time: 0:28:07.411443
+2024-06-30 00:39:19,350 - INFO - Processing collection 38657511 (HTTP)
+2024-06-30 00:39:20,703 - INFO - Fetched total 28 bookmarks for collection 38657511
+2024-06-30 00:39:20,703 - INFO - Processed collection 1094/2046: 38657511 (HTTP). Bookmarks: 28. Time taken: 0:00:01.352689. Total bookmarks so far: 16355. Elapsed time: 0:28:08.764132
+2024-06-30 00:39:20,704 - INFO - Processing collection 38657299 (HTML & CSS)
+2024-06-30 00:39:21,664 - INFO - Fetched total 29 bookmarks for collection 38657299
+2024-06-30 00:39:21,664 - INFO - Processed collection 1095/2046: 38657299 (HTML & CSS). Bookmarks: 29. Time taken: 0:00:00.959985. Total bookmarks so far: 16384. Elapsed time: 0:28:09.725127
+2024-06-30 00:39:21,666 - INFO - Processing collection 38657298 (HTML)
+2024-06-30 00:39:22,799 - INFO - Fetched total 6 bookmarks for collection 38657298
+2024-06-30 00:39:22,799 - INFO - Processed collection 1096/2046: 38657298 (HTML). Bookmarks: 6. Time taken: 0:00:01.133291. Total bookmarks so far: 16390. Elapsed time: 0:28:10.860683
+2024-06-30 00:39:22,799 - INFO - Processing collection 39366435 (How Secure Is My Password?)
+2024-06-30 00:39:24,162 - INFO - Fetched total 0 bookmarks for collection 39366435
+2024-06-30 00:39:24,162 - INFO - Processed collection 1097/2046: 39366435 (How Secure Is My Password?). Bookmarks: 0. Time taken: 0:00:01.362339. Total bookmarks so far: 16390. Elapsed time: 0:28:12.223022
+2024-06-30 00:39:24,163 - INFO - Processing collection 39366585 (HOSTING)
+2024-06-30 00:39:25,088 - INFO - Fetched total 1 bookmarks for collection 39366585
+2024-06-30 00:39:25,088 - INFO - Processed collection 1098/2046: 39366585 (HOSTING). Bookmarks: 1. Time taken: 0:00:00.925334. Total bookmarks so far: 16391. Elapsed time: 0:28:13.149365
+2024-06-30 00:39:25,088 - INFO - Processing collection 39366559 (HOSTING)
+2024-06-30 00:39:25,995 - INFO - Fetched total 0 bookmarks for collection 39366559
+2024-06-30 00:39:25,995 - INFO - Processed collection 1099/2046: 39366559 (HOSTING). Bookmarks: 0. Time taken: 0:00:00.907458. Total bookmarks so far: 16391. Elapsed time: 0:28:14.056823
+2024-06-30 00:39:25,995 - INFO - Processing collection 38657552 (Host-Domains)
+2024-06-30 00:39:30,205 - INFO - Fetched total 121 bookmarks for collection 38657552
+2024-06-30 00:39:30,205 - INFO - Processed collection 1100/2046: 38657552 (Host-Domains). Bookmarks: 121. Time taken: 0:00:04.209070. Total bookmarks so far: 16512. Elapsed time: 0:28:18.265893
+2024-06-30 00:39:30,206 - INFO - Processing collection 39365598 (HORROR)
+2024-06-30 00:39:31,173 - INFO - Fetched total 1 bookmarks for collection 39365598
+2024-06-30 00:39:31,173 - INFO - Processed collection 1101/2046: 39365598 (HORROR). Bookmarks: 1. Time taken: 0:00:00.967857. Total bookmarks so far: 16513. Elapsed time: 0:28:19.234762
+2024-06-30 00:39:31,173 - INFO - Processing collection 39366695 (Hong Kong)
+2024-06-30 00:39:32,078 - INFO - Fetched total 1 bookmarks for collection 39366695
+2024-06-30 00:39:32,078 - INFO - Processed collection 1102/2046: 39366695 (Hong Kong). Bookmarks: 1. Time taken: 0:00:00.904769. Total bookmarks so far: 16514. Elapsed time: 0:28:20.139531
+2024-06-30 00:39:32,078 - INFO - Processing collection 38634530 (Honeypot Data & Statistics)
+2024-06-30 00:39:33,071 - INFO - Fetched total 1 bookmarks for collection 38634530
+2024-06-30 00:39:33,071 - INFO - Processed collection 1103/2046: 38634530 (Honeypot Data & Statistics). Bookmarks: 1. Time taken: 0:00:00.992668. Total bookmarks so far: 16515. Elapsed time: 0:28:21.132199
+2024-06-30 00:39:33,072 - INFO - Processing collection 39365557 (HOMRBREW)
+2024-06-30 00:39:34,036 - INFO - Fetched total 1 bookmarks for collection 39365557
+2024-06-30 00:39:34,036 - INFO - Processed collection 1104/2046: 39365557 (HOMRBREW). Bookmarks: 1. Time taken: 0:00:00.964467. Total bookmarks so far: 16516. Elapsed time: 0:28:22.097675
+2024-06-30 00:39:34,036 - INFO - Processing collection 39559945 (Hit The Reset)
+2024-06-30 00:39:35,298 - INFO - Fetched total 3 bookmarks for collection 39559945
+2024-06-30 00:39:35,299 - INFO - Processed collection 1105/2046: 39559945 (Hit The Reset). Bookmarks: 3. Time taken: 0:00:01.262462. Total bookmarks so far: 16519. Elapsed time: 0:28:23.360137
+2024-06-30 00:39:35,299 - INFO - Processing collection 39365689 (Hindi)
+2024-06-30 00:39:36,185 - INFO - Fetched total 1 bookmarks for collection 39365689
+2024-06-30 00:39:36,185 - INFO - Processed collection 1106/2046: 39365689 (Hindi). Bookmarks: 1. Time taken: 0:00:00.885945. Total bookmarks so far: 16520. Elapsed time: 0:28:24.246082
+2024-06-30 00:39:36,185 - INFO - Processing collection 39365554 (Hindi)
+2024-06-30 00:39:37,459 - INFO - Fetched total 2 bookmarks for collection 39365554
+2024-06-30 00:39:37,459 - INFO - Processed collection 1107/2046: 39365554 (Hindi). Bookmarks: 2. Time taken: 0:00:01.273325. Total bookmarks so far: 16522. Elapsed time: 0:28:25.520711
+2024-06-30 00:39:37,459 - INFO - Processing collection 39365518 (HDEncode)
+2024-06-30 00:39:39,484 - INFO - Fetched total 1 bookmarks for collection 39365518
+2024-06-30 00:39:39,484 - INFO - Processed collection 1108/2046: 39365518 (HDEncode). Bookmarks: 1. Time taken: 0:00:02.024685. Total bookmarks so far: 16523. Elapsed time: 0:28:27.545396
+2024-06-30 00:39:39,484 - INFO - Processing collection 39366949 (Hatari)
+2024-06-30 00:39:40,515 - INFO - Fetched total 1 bookmarks for collection 39366949
+2024-06-30 00:39:40,515 - INFO - Processed collection 1109/2046: 39366949 (Hatari). Bookmarks: 1. Time taken: 0:00:01.030592. Total bookmarks so far: 16524. Elapsed time: 0:28:28.575988
+2024-06-30 00:39:40,515 - INFO - Processing collection 38634644 (HashTag "translator")
+2024-06-30 00:39:41,545 - INFO - Fetched total 1 bookmarks for collection 38634644
+2024-06-30 00:39:41,545 - INFO - Processed collection 1110/2046: 38634644 (HashTag "translator"). Bookmarks: 1. Time taken: 0:00:01.028639. Total bookmarks so far: 16525. Elapsed time: 0:28:29.606388
+2024-06-30 00:39:41,545 - INFO - Processing collection 38634529 (HASH RECOVERY)
+2024-06-30 00:39:43,292 - INFO - Fetched total 5 bookmarks for collection 38634529
+2024-06-30 00:39:43,292 - INFO - Processed collection 1111/2046: 38634529 (HASH RECOVERY). Bookmarks: 5. Time taken: 0:00:01.746716. Total bookmarks so far: 16530. Elapsed time: 0:28:31.353104
+2024-06-30 00:39:43,292 - INFO - Processing collection 38657464 (Hardware)
+2024-06-30 00:39:44,297 - INFO - Fetched total 0 bookmarks for collection 38657464
+2024-06-30 00:39:44,298 - INFO - Processed collection 1112/2046: 38657464 (Hardware). Bookmarks: 0. Time taken: 0:00:01.006114. Total bookmarks so far: 16530. Elapsed time: 0:28:32.359218
+2024-06-30 00:39:44,298 - INFO - Processing collection 38634556 (Hardware)
+2024-06-30 00:39:45,344 - INFO - Fetched total 0 bookmarks for collection 38634556
+2024-06-30 00:39:45,344 - INFO - Processed collection 1113/2046: 38634556 (Hardware). Bookmarks: 0. Time taken: 0:00:01.045714. Total bookmarks so far: 16530. Elapsed time: 0:28:33.405430
+2024-06-30 00:39:45,344 - INFO - Processing collection 38657465 (Hard Drives)
+2024-06-30 00:39:46,406 - INFO - Fetched total 10 bookmarks for collection 38657465
+2024-06-30 00:39:46,406 - INFO - Processed collection 1114/2046: 38657465 (Hard Drives). Bookmarks: 10. Time taken: 0:00:01.061635. Total bookmarks so far: 16540. Elapsed time: 0:28:34.467065
+2024-06-30 00:39:46,406 - INFO - Processing collection 38657473 (Hackintosh)
+2024-06-30 00:39:47,347 - INFO - Fetched total 21 bookmarks for collection 38657473
+2024-06-30 00:39:47,347 - INFO - Processed collection 1115/2046: 38657473 (Hackintosh). Bookmarks: 21. Time taken: 0:00:00.941644. Total bookmarks so far: 16561. Elapsed time: 0:28:35.408709
+2024-06-30 00:39:47,348 - INFO - Processing collection 38634550 (Hacking Forums on the Clearnet)
+2024-06-30 00:39:48,276 - INFO - Fetched total 12 bookmarks for collection 38634550
+2024-06-30 00:39:48,276 - INFO - Processed collection 1116/2046: 38634550 (Hacking Forums on the Clearnet). Bookmarks: 12. Time taken: 0:00:00.927315. Total bookmarks so far: 16573. Elapsed time: 0:28:36.337070
+2024-06-30 00:39:48,276 - INFO - Processing collection 45137398 (Gupy)
+2024-06-30 00:39:49,273 - INFO - Fetched total 0 bookmarks for collection 45137398
+2024-06-30 00:39:49,273 - INFO - Processed collection 1117/2046: 45137398 (Gupy). Bookmarks: 0. Time taken: 0:00:00.996892. Total bookmarks so far: 16573. Elapsed time: 0:28:37.333962
+2024-06-30 00:39:49,274 - INFO - Processing collection 39365710 (Gupy)
+2024-06-30 00:39:50,335 - INFO - Fetched total 7 bookmarks for collection 39365710
+2024-06-30 00:39:50,335 - INFO - Processed collection 1118/2046: 39365710 (Gupy). Bookmarks: 7. Time taken: 0:00:01.061666. Total bookmarks so far: 16580. Elapsed time: 0:28:38.396643
+2024-06-30 00:39:50,335 - INFO - Processing collection 45137381 (GUIDES)
+2024-06-30 00:39:51,836 - INFO - Fetched total 0 bookmarks for collection 45137381
+2024-06-30 00:39:51,836 - INFO - Processed collection 1119/2046: 45137381 (GUIDES). Bookmarks: 0. Time taken: 0:00:01.501116. Total bookmarks so far: 16580. Elapsed time: 0:28:39.897759
+2024-06-30 00:39:51,836 - INFO - Processing collection 45133092 (Guides)
+2024-06-30 00:39:53,185 - INFO - Fetched total 0 bookmarks for collection 45133092
+2024-06-30 00:39:53,185 - INFO - Processed collection 1120/2046: 45133092 (Guides). Bookmarks: 0. Time taken: 0:00:01.348388. Total bookmarks so far: 16580. Elapsed time: 0:28:41.246147
+2024-06-30 00:39:53,186 - INFO - Processing collection 45133074 (Guides)
+2024-06-30 00:39:54,134 - INFO - Fetched total 0 bookmarks for collection 45133074
+2024-06-30 00:39:54,134 - INFO - Processed collection 1121/2046: 45133074 (Guides). Bookmarks: 0. Time taken: 0:00:00.947814. Total bookmarks so far: 16580. Elapsed time: 0:28:42.195550
+2024-06-30 00:39:54,134 - INFO - Processing collection 38634548 (Guides)
+2024-06-30 00:39:55,047 - INFO - Fetched total 1 bookmarks for collection 38634548
+2024-06-30 00:39:55,047 - INFO - Processed collection 1122/2046: 38634548 (Guides). Bookmarks: 1. Time taken: 0:00:00.913182. Total bookmarks so far: 16581. Elapsed time: 0:28:43.108733
+2024-06-30 00:39:55,047 - INFO - Processing collection 39366423 (GTA 5)
+2024-06-30 00:39:56,382 - INFO - Fetched total 0 bookmarks for collection 39366423
+2024-06-30 00:39:56,387 - INFO - Processed collection 1123/2046: 39366423 (GTA 5). Bookmarks: 0. Time taken: 0:00:01.339415. Total bookmarks so far: 16581. Elapsed time: 0:28:44.448147
+2024-06-30 00:39:56,388 - INFO - Processing collection 38657280 (Graphs)
+2024-06-30 00:39:57,327 - INFO - Fetched total 6 bookmarks for collection 38657280
+2024-06-30 00:39:57,327 - INFO - Processed collection 1124/2046: 38657280 (Graphs). Bookmarks: 6. Time taken: 0:00:00.939640. Total bookmarks so far: 16587. Elapsed time: 0:28:45.388685
+2024-06-30 00:39:57,327 - INFO - Processing collection 38657208 (Graphics Resources)
+2024-06-30 00:39:58,272 - INFO - Fetched total 8 bookmarks for collection 38657208
+2024-06-30 00:39:58,272 - INFO - Processed collection 1125/2046: 38657208 (Graphics Resources). Bookmarks: 8. Time taken: 0:00:00.945024. Total bookmarks so far: 16595. Elapsed time: 0:28:46.333709
+2024-06-30 00:39:58,273 - INFO - Processing collection 39366947 (GP32)
+2024-06-30 00:39:59,295 - INFO - Fetched total 1 bookmarks for collection 39366947
+2024-06-30 00:39:59,295 - INFO - Processed collection 1126/2046: 39366947 (GP32). Bookmarks: 1. Time taken: 0:00:01.021725. Total bookmarks so far: 16596. Elapsed time: 0:28:47.356787
+2024-06-30 00:39:59,297 - INFO - Processing collection 39366948 (GP2X)
+2024-06-30 00:40:00,235 - INFO - Fetched total 2 bookmarks for collection 39366948
+2024-06-30 00:40:00,236 - INFO - Processed collection 1127/2046: 39366948 (GP2X). Bookmarks: 2. Time taken: 0:00:00.938109. Total bookmarks so far: 16598. Elapsed time: 0:28:48.297114
+2024-06-30 00:40:00,237 - INFO - Processing collection 38634601 (Government)
+2024-06-30 00:40:01,328 - INFO - Fetched total 44 bookmarks for collection 38634601
+2024-06-30 00:40:01,328 - INFO - Processed collection 1128/2046: 38634601 (Government). Bookmarks: 44. Time taken: 0:00:01.091242. Total bookmarks so far: 16642. Elapsed time: 0:28:49.389470
+2024-06-30 00:40:01,328 - INFO - Processing collection 38634766 (Google Search)
+2024-06-30 00:40:02,241 - INFO - Fetched total 20 bookmarks for collection 38634766
+2024-06-30 00:40:02,241 - INFO - Processed collection 1129/2046: 38634766 (Google Search). Bookmarks: 20. Time taken: 0:00:00.913319. Total bookmarks so far: 16662. Elapsed time: 0:28:50.302790
+2024-06-30 00:40:02,242 - INFO - Processing collection 39366233 (Google Drive stuff)
+2024-06-30 00:40:03,481 - INFO - Fetched total 5 bookmarks for collection 39366233
+2024-06-30 00:40:03,482 - INFO - Processed collection 1130/2046: 39366233 (Google Drive stuff). Bookmarks: 5. Time taken: 0:00:01.238711. Total bookmarks so far: 16667. Elapsed time: 0:28:51.542525
+2024-06-30 00:40:03,482 - INFO - Processing collection 38657131 (Google Drive Shared Indexes)
+2024-06-30 00:40:05,447 - INFO - Fetched total 76 bookmarks for collection 38657131
+2024-06-30 00:40:05,447 - INFO - Processed collection 1131/2046: 38657131 (Google Drive Shared Indexes). Bookmarks: 76. Time taken: 0:00:01.965132. Total bookmarks so far: 16743. Elapsed time: 0:28:53.508674
+2024-06-30 00:40:05,447 - INFO - Processing collection 38657128 (Google Drive)
+2024-06-30 00:40:06,606 - INFO - Fetched total 11 bookmarks for collection 38657128
+2024-06-30 00:40:06,607 - INFO - Processed collection 1132/2046: 38657128 (Google Drive). Bookmarks: 11. Time taken: 0:00:01.158567. Total bookmarks so far: 16754. Elapsed time: 0:28:54.667241
+2024-06-30 00:40:06,607 - INFO - Processing collection 38634537 (Google Doc Resources)
+2024-06-30 00:40:07,647 - INFO - Fetched total 5 bookmarks for collection 38634537
+2024-06-30 00:40:07,648 - INFO - Processed collection 1133/2046: 38634537 (Google Doc Resources). Bookmarks: 5. Time taken: 0:00:01.041117. Total bookmarks so far: 16759. Elapsed time: 0:28:55.709378
+2024-06-30 00:40:07,649 - INFO - Processing collection 38634497 (Google AdSense)
+2024-06-30 00:40:08,981 - INFO - Fetched total 1 bookmarks for collection 38634497
+2024-06-30 00:40:08,981 - INFO - Processed collection 1134/2046: 38634497 (Google AdSense). Bookmarks: 1. Time taken: 0:00:01.332168. Total bookmarks so far: 16760. Elapsed time: 0:28:57.042547
+2024-06-30 00:40:08,982 - INFO - Processing collection 38657276 (Google)
+2024-06-30 00:40:09,979 - INFO - Fetched total 17 bookmarks for collection 38657276
+2024-06-30 00:40:09,980 - INFO - Processed collection 1135/2046: 38657276 (Google). Bookmarks: 17. Time taken: 0:00:00.997369. Total bookmarks so far: 16777. Elapsed time: 0:28:58.040927
+2024-06-30 00:40:09,980 - INFO - Processing collection 39365878 (GloTorrents)
+2024-06-30 00:40:11,362 - INFO - Fetched total 1 bookmarks for collection 39365878
+2024-06-30 00:40:11,362 - INFO - Processed collection 1136/2046: 39365878 (GloTorrents). Bookmarks: 1. Time taken: 0:00:01.382345. Total bookmarks so far: 16778. Elapsed time: 0:28:59.423272
+2024-06-30 00:40:11,363 - INFO - Processing collection 39365842 (GloTorrents)
+2024-06-30 00:40:12,471 - INFO - Fetched total 2 bookmarks for collection 39365842
+2024-06-30 00:40:12,471 - INFO - Processed collection 1137/2046: 39365842 (GloTorrents). Bookmarks: 2. Time taken: 0:00:01.107116. Total bookmarks so far: 16780. Elapsed time: 0:29:00.532764
+2024-06-30 00:40:12,471 - INFO - Processing collection 38657325 (Glossaries and Dictionaries)
+2024-06-30 00:40:13,640 - INFO - Fetched total 4 bookmarks for collection 38657325
+2024-06-30 00:40:13,640 - INFO - Processed collection 1138/2046: 38657325 (Glossaries and Dictionaries). Bookmarks: 4. Time taken: 0:00:01.168167. Total bookmarks so far: 16784. Elapsed time: 0:29:01.700931
+2024-06-30 00:40:13,640 - INFO - Processing collection 39367026 (Gits)
+2024-06-30 00:40:18,755 - INFO - Fetched total 113 bookmarks for collection 39367026
+2024-06-30 00:40:18,755 - INFO - Processed collection 1139/2046: 39367026 (Gits). Bookmarks: 113. Time taken: 0:00:05.115223. Total bookmarks so far: 16897. Elapsed time: 0:29:06.816155
+2024-06-30 00:40:18,755 - INFO - Processing collection 39366174 (GitHub)
+2024-06-30 00:40:22,427 - INFO - Fetched total 123 bookmarks for collection 39366174
+2024-06-30 00:40:22,427 - INFO - Processed collection 1140/2046: 39366174 (GitHub). Bookmarks: 123. Time taken: 0:00:03.670523. Total bookmarks so far: 17020. Elapsed time: 0:29:10.488121
+2024-06-30 00:40:22,427 - INFO - Processing collection 39366150 (GitHub)
