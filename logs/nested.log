@@ -57,3 +57,33 @@
 2024-06-30 00:11:32,565 - INFO - Fetched total 0 bookmarks for collection 38634439
 2024-06-30 00:11:32,565 - INFO - Processed collection 18/2046: 38634439 (01000100). Bookmarks: 0. Time taken: 0:00:01.219561. Total bookmarks so far: 74. Elapsed time: 0:00:20.626049
 2024-06-30 00:11:32,565 - INFO - Processing collection 39415170 (Files)
+2024-06-30 00:12:06,980 - INFO - Fetched total 1235 bookmarks for collection 39415170
+2024-06-30 00:12:06,980 - INFO - Processed collection 19/2046: 39415170 (Files). Bookmarks: 1235. Time taken: 0:00:34.414860. Total bookmarks so far: 1309. Elapsed time: 0:00:55.040909
+2024-06-30 00:12:06,980 - INFO - Processing collection 45522623 (Osint Onion Forum)
+2024-06-30 00:12:08,834 - INFO - Fetched total 0 bookmarks for collection 45522623
+2024-06-30 00:12:08,834 - INFO - Processed collection 20/2046: 45522623 (Osint Onion Forum). Bookmarks: 0. Time taken: 0:00:01.854709. Total bookmarks so far: 1309. Elapsed time: 0:00:56.895618
+2024-06-30 00:12:08,834 - INFO - Processing collection 45522622 (Social Engineering)
+2024-06-30 00:12:11,421 - INFO - Fetched total 0 bookmarks for collection 45522622
+2024-06-30 00:12:11,421 - INFO - Processed collection 21/2046: 45522622 (Social Engineering). Bookmarks: 0. Time taken: 0:00:02.586338. Total bookmarks so far: 1309. Elapsed time: 0:00:59.481956
+2024-06-30 00:12:11,421 - INFO - Processing collection 45522621 (Note-taking)
+2024-06-30 00:12:12,416 - INFO - Fetched total 0 bookmarks for collection 45522621
+2024-06-30 00:12:12,416 - INFO - Processed collection 22/2046: 45522621 (Note-taking). Bookmarks: 0. Time taken: 0:00:00.995245. Total bookmarks so far: 1309. Elapsed time: 0:01:00.477201
+2024-06-30 00:12:12,416 - INFO - Processing collection 45522620 (Forensic Guides)
+2024-06-30 00:12:15,381 - INFO - Fetched total 0 bookmarks for collection 45522620
+2024-06-30 00:12:15,381 - INFO - Processed collection 23/2046: 45522620 (Forensic Guides). Bookmarks: 0. Time taken: 0:00:02.965354. Total bookmarks so far: 1309. Elapsed time: 0:01:03.442555
+2024-06-30 00:12:15,381 - INFO - Processing collection 45522619 (Investigating)
+2024-06-30 00:12:17,147 - INFO - Fetched total 0 bookmarks for collection 45522619
+2024-06-30 00:12:17,147 - INFO - Processed collection 24/2046: 45522619 (Investigating). Bookmarks: 0. Time taken: 0:00:01.765691. Total bookmarks so far: 1309. Elapsed time: 0:01:05.208245
+2024-06-30 00:12:17,148 - INFO - Processing collection 45522617 (Leak Tests (Dark Net))
+2024-06-30 00:12:18,273 - INFO - Fetched total 0 bookmarks for collection 45522617
+2024-06-30 00:12:18,274 - INFO - Processed collection 25/2046: 45522617 (Leak Tests (Dark Net)). Bookmarks: 0. Time taken: 0:00:01.125644. Total bookmarks so far: 1309. Elapsed time: 0:01:06.335526
+2024-06-30 00:12:18,275 - INFO - Processing collection 45522602 (REPACKS)
+2024-06-30 00:12:19,603 - INFO - Fetched total 0 bookmarks for collection 45522602
+2024-06-30 00:12:19,603 - INFO - Processed collection 26/2046: 45522602 (REPACKS). Bookmarks: 0. Time taken: 0:00:01.328179. Total bookmarks so far: 1309. Elapsed time: 0:01:07.664700
+2024-06-30 00:12:19,603 - INFO - Processing collection 45522601 ([FA])
+2024-06-30 00:12:20,517 - INFO - Fetched total 0 bookmarks for collection 45522601
+2024-06-30 00:12:20,517 - INFO - Processed collection 27/2046: 45522601 ([FA]). Bookmarks: 0. Time taken: 0:00:00.913773. Total bookmarks so far: 1309. Elapsed time: 0:01:08.578473
+2024-06-30 00:12:20,517 - INFO - Processing collection 45522585 ([FR])
+2024-06-30 00:12:21,789 - INFO - Fetched total 0 bookmarks for collection 45522585
+2024-06-30 00:12:21,791 - INFO - Processed collection 28/2046: 45522585 ([FR]). Bookmarks: 0. Time taken: 0:00:01.272707. Total bookmarks so far: 1309. Elapsed time: 0:01:09.851181
+2024-06-30 00:12:21,791 - INFO - Processing collection 45522574 (Vostfrstreaming)
