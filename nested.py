@@ -1,8 +1,13 @@
-import requests
-import json
 import logging
-from APP.config import headers
-from APP.utils import configure_logging, read_json
+import json
+import requests
+from utils import configure_logging, read_json
+from config import headers
+import sys
+import os
+# Adjust sys.path to include the parent directory
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 
 BASE_URL = "https://api.raindrop.io/rest/v1"
 

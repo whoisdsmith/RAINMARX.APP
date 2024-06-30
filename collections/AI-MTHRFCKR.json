@@ -1,0 +1,258 @@
+{
+    "id": "38634040",
+    "title": "AI-MTHRFCKR",
+    "raindrops": [
+        {
+            "_id": 698538155,
+            "link": "https://claude.ai",
+            "title": "Claude",
+            "excerpt": "Talk with Claude an AI assistant from Anthropic",
+            "note": "",
+            "type": "link",
+            "user": {
+                "$ref": "users",
+                "$id": 550437
+            },
+            "cover": "https://claude.ai/images/opengraph-image@2x.png",
+            "media": [
+                {
+                    "type": "image",
+                    "link": "https://claude.ai/images/opengraph-image@2x.png"
+                }
+            ],
+            "tags": [],
+            "removed": false,
+            "created": "2023-12-18T21:34:42.000Z",
+            "lastUpdate": "2024-06-29T22:59:03.977Z",
+            "collection": {
+                "$ref": "collections",
+                "$id": 38634040,
+                "oid": 38634040
+            },
+            "highlights": [],
+            "domain": "claude.ai",
+            "creatorRef": {
+                "_id": 550437,
+                "name": "whoisdsmith",
+                "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+                "email": ""
+            },
+            "sort": 698538175,
+            "broken": false,
+            "cache": {
+                "status": "invalid-origin"
+            },
+            "collectionId": 38634040
+        },
+        {
+            "_id": 698538150,
+            "link": "https://makersuite.google.com/app/prompts/new_freeform",
+            "title": "Sign in Google Accounts",
+            "excerpt": "",
+            "note": "",
+            "type": "link",
+            "user": {
+                "$ref": "users",
+                "$id": 550437
+            },
+            "cover": "",
+            "media": [],
+            "tags": [],
+            "removed": false,
+            "created": "2023-12-14T01:53:40.000Z",
+            "lastUpdate": "2024-06-29T22:59:05.706Z",
+            "collection": {
+                "$ref": "collections",
+                "$id": 38634040,
+                "oid": 38634040
+            },
+            "highlights": [],
+            "domain": "makersuite.google.com",
+            "creatorRef": {
+                "_id": 550437,
+                "name": "whoisdsmith",
+                "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+                "email": ""
+            },
+            "sort": 698538171,
+            "broken": false,
+            "cache": {
+                "status": "ready",
+                "size": 13851,
+                "created": "2024-05-03T08:41:35.745Z"
+            },
+            "collectionId": 38634040
+        },
+        {
+            "_id": 698538147,
+            "link": "https://structifi.com",
+            "title": "StructiFi AIPowered OCRData ExtractionBeta",
+            "excerpt": "An AI smart tool extracts valuable structured data from any file It excels in OCR effortlessly translating visual information from PDFs and images into actionable data Perfect for your data extraction needs Free OCR Image to Text Image to Excetl Online Tool Data Extraction File to Data AI Conversion OCR PDF Extract Image Extract StructiFi Sales lead contacts exam paper catalogs",
+            "note": "",
+            "type": "link",
+            "user": {
+                "$ref": "users",
+                "$id": 550437
+            },
+            "cover": "https://structifi.com/logo.svg",
+            "media": [
+                {
+                    "type": "image",
+                    "link": "https://structifi.com/logo.svg"
+                }
+            ],
+            "tags": [],
+            "removed": false,
+            "created": "2023-12-17T20:53:53.000Z",
+            "lastUpdate": "2024-06-29T22:59:04.152Z",
+            "collection": {
+                "$ref": "collections",
+                "$id": 38634040,
+                "oid": 38634040
+            },
+            "highlights": [],
+            "domain": "structifi.com",
+            "creatorRef": {
+                "_id": 550437,
+                "name": "whoisdsmith",
+                "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+                "email": ""
+            },
+            "sort": 698538168,
+            "broken": false,
+            "cache": {
+                "status": "ready",
+                "size": 1394657,
+                "created": "2024-05-05T03:41:24.844Z"
+            },
+            "collectionId": 38634040
+        },
+        {
+            "_id": 698538162,
+            "link": "https://bannergpt.dabble.so/generate",
+            "title": "httpsbannergptdabblesogenerate",
+            "excerpt": "httpsbannergptdabblesogenerate",
+            "note": "",
+            "type": "link",
+            "user": {
+                "$ref": "users",
+                "$id": 550437
+            },
+            "cover": "https://rdl.ink/render/https%3A%2F%2Fbannergpt.dabble.so%2Fgenerate",
+            "media": [],
+            "tags": [],
+            "removed": false,
+            "created": "2023-12-20T13:52:47.786Z",
+            "lastUpdate": "2024-06-29T22:59:03.772Z",
+            "collection": {
+                "$ref": "collections",
+                "$id": 38634040,
+                "oid": 38634040
+            },
+            "highlights": [],
+            "domain": "bannergpt.dabble.so",
+            "creatorRef": {
+                "_id": 550437,
+                "name": "whoisdsmith",
+                "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+                "email": ""
+            },
+            "sort": 698538167,
+            "broken": false,
+            "cache": {
+                "status": "ready",
+                "size": 701528,
+                "created": "2024-05-03T08:41:35.626Z"
+            },
+            "collectionId": 38634040
+        },
+        {
+            "_id": 698538160,
+            "link": "https://www.bandlab.com/mastering",
+            "title": "BandLab Make Music Online",
+            "excerpt": "The cloud platform where musicians and fans create music collaborate and engage with each other across the globe",
+            "note": "",
+            "type": "link",
+            "user": {
+                "$ref": "users",
+                "$id": 550437
+            },
+            "cover": "https://www.bandlab.com/web-app/images/open-graph-mastering-5d917a6157.png",
+            "media": [
+                {
+                    "type": "image",
+                    "link": "https://www.bandlab.com/web-app/images/open-graph-mastering-5d917a6157.png"
+                }
+            ],
+            "tags": [],
+            "removed": false,
+            "created": "2023-12-15T14:27:45.000Z",
+            "lastUpdate": "2024-06-29T22:59:03.678Z",
+            "collection": {
+                "$ref": "collections",
+                "$id": 38634040,
+                "oid": 38634040
+            },
+            "highlights": [],
+            "domain": "bandlab.com",
+            "creatorRef": {
+                "_id": 550437,
+                "name": "whoisdsmith",
+                "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+                "email": ""
+            },
+            "sort": 698538165,
+            "broken": false,
+            "cache": {
+                "status": "ready",
+                "size": 7148409,
+                "created": "2024-05-03T08:41:35.626Z"
+            },
+            "collectionId": 38634040
+        },
+        {
+            "_id": 698538158,
+            "link": "https://simplescraper.io/scrapetoai?ref=futuretools.io",
+            "title": "ScrapetoAI by Simplescraper Extract data from websites for custom GPTs and LLMs",
+            "excerpt": "Extract data from websites to use in your custom GPTs and AI Large Language Models No code required",
+            "note": "",
+            "type": "link",
+            "user": {
+                "$ref": "users",
+                "$id": 550437
+            },
+            "cover": "https://simplescraper.io/easy_scraper_social.png",
+            "media": [
+                {
+                    "type": "image",
+                    "link": "https://simplescraper.io/easy_scraper_social.png"
+                }
+            ],
+            "tags": [],
+            "removed": false,
+            "created": "2023-12-20T13:52:47.785Z",
+            "lastUpdate": "2024-06-29T22:59:03.553Z",
+            "collection": {
+                "$ref": "collections",
+                "$id": 38634040,
+                "oid": 38634040
+            },
+            "highlights": [],
+            "domain": "simplescraper.io",
+            "creatorRef": {
+                "_id": 550437,
+                "name": "whoisdsmith",
+                "avatar": "https://up.raindrop.io/user/avatars/550/437/1_E228906_5265_4_DFB_BFCE_A431_A73_AF_7_B8.jpeg",
+                "email": ""
+            },
+            "sort": 698538163,
+            "broken": false,
+            "cache": {
+                "status": "ready",
+                "size": 95319,
+                "created": "2024-05-03T08:41:25.942Z"
+            },
+            "collectionId": 38634040
+        }
+    ]
+}

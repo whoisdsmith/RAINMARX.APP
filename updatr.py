@@ -2,8 +2,8 @@ import aiohttp
 import asyncio
 import logging
 from bs4 import BeautifulSoup
-from APP.config import headers
-from APP.utils import configure_logging, read_json, sanitize_text
+from config import headers
+from utils import configure_logging, read_json, sanitize_text
 
 BASE_URL = "https://api.raindrop.io/rest/v1"
 
