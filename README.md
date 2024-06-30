@@ -2,115 +2,127 @@
 
 ![](banner.jpg)
 
-RAINMARX is a command-line interface (CLI) application designed to manage your Raindrop.io bookmarks efficiently. It provides various functionalities, including retrieving collections, updating bookmarks, and searching for specific bookmarks or collections.
+Welcome to RAINMARX, your ultimate CLI tool for managing Raindrop.io bookmarks. This application allows you to interact with your Raindrop.io account through various functionalities such as fetching bookmarks, updating collections, searching, and more.
+
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Scripts Overview](#scripts-overview)
+- [Logging](#logging)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Features
-
-- Retrieve all bookmarks and nested collections from Raindrop.io
-- Get details of a parent collection by its ID
-- Update bookmarks with sanitized titles and excerpts
-- Search for collections or bookmarks based on user queries
-- Save search results to JSON files for easy reference
-
-## Prerequisites
-
-- Python 3.7 or higher
-- Raindrop.io API key
+- Fetch all bookmarks and nested collections.
+- Retrieve parent collections by ID.
+- Update bookmarks within a collection.
+- Search bookmarks.
+- Get user statistics.
+- Manage user collection groups.
 
 ## Installation
 
-1. **Clone the repository**:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/RAINMARX.git
+   cd RAINMARX
+   ```
 
-```bash
-git clone https://github.com/yourusername/RAINMARX.git
-cd RAINMARX
-```
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-2. **Install the required dependencies**:
+## Configuration
 
-```bash
-pip install -r requirements.txt
-```
+1. **API Token:**
+   - Update the `config.py` file with your Raindrop.io API token.
 
-3. **Configure API headers**:
+     ```python
+     api_token = 'your_api_token_here'
+     headers = {
+         'Authorization': f'Bearer {api_token}',
+         'Content-Type': 'application/json'
+     }
+     ```
 
-Update the `config.py` file with your Raindrop.io API key:
+   Alternatively, you can set your API token as an environment variable and modify `config.py` to read from it:
 
-```python
-headers = {
-    'Authorization': 'Bearer YOUR_RAINDROP_API_KEY'
-}
-```
+     ```python
+     import os
+
+     api_token = os.getenv('RAINDROP_API_TOKEN')
+     headers = {
+         'Authorization': f'Bearer {api_token}',
+         'Content-Type': 'application/json'
+     }
+     ```
+
+2. **Logging Configuration:**
+   - Configure logging as per your requirements in the `utils.py` file.
 
 ## Usage
 
-### Running the Application
-
-To start the RAINMARX CLI application, run:
+Run the main script to start the CLI application:
 
 ```bash
 python RAINMARX.py
 ```
 
-### Main Menu Options
+You will be presented with a menu of options:
 
-1. **Get all bookmarks and nested collections**:
-   - Retrieves all collections and their bookmarks, saving the structure to `nested_structure.json`.
+1. Get all bookmarks and nested collections.
+2. Get parent collection by ID.
+3. Update bookmarks from a collection.
+4. Search.
+5. Get user stats.
+6. Get user collection groups.
+7. Exit.
 
-2. **Get parent collection by ID**:
-   - Prompts for a collection ID and retrieves the collection along with its bookmarks, saving the structure to a JSON file.
+Choose the desired option by entering the corresponding number.
 
-3. **Update bookmarks from a collection**:
-   - Prompts for a JSON file containing nested collections and updates the bookmarks with sanitized titles and excerpts.
+## Scripts Overview
 
-4. **Search**:
-   - Provides options to search collections or bookmarks based on user queries.
+- **RAINMARX.py**: Main entry point of the application, displaying the menu and handling user inputs.
+- **config.py**: Contains API token and headers configuration.
+- **collectid.py**: Handles retrieval of parent collections by ID.
+- **group.py**: Manages user collection groups.
+- **nested.py**: Fetches all bookmarks and nested collections.
+- **overview.py**: Provides an overview of collections.
+- **search.py**: Handles search functionality.
+- **stats.py**: Retrieves user statistics.
+- **updatr.py**: Updates bookmarks within a collection.
+- **utils.py**: Contains utility functions, including logging configuration.
 
-5. **Exit**:
-   - Exits the application.
+## Logging
 
-### Detailed Functionality
+Logging is configured in `utils.py`. You can customize the logging level and format as needed. The logs are saved in the `logs` directory.
 
-#### Retrieve All Bookmarks and Nested Collections
+```python
+import logging
 
-This option retrieves all collections and their bookmarks from Raindrop.io and saves them to `nested_structure.json`:
-
-```bash
-python nested.py
+def configure_logging(script_name):
+    log_filename = f'logs/{script_name}.log'
+    logging.basicConfig(
+        filename=log_filename,
+        level=logging.DEBUG,
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        datefmt='%Y-%m-%d %H:%M:%S'
+    )
 ```
-
-#### Get Parent Collection by ID
-
-This option retrieves a specific collection by its ID and saves the structure to a JSON file in the `collections` directory:
-
-```bash
-python collectid.py
-```
-
-#### Update Bookmarks
-
-This option updates bookmarks with sanitized titles and excerpts based on a provided JSON file:
-
-```bash
-python updatr.py
-```
-
-#### Search Collections and Bookmarks
-
-This option allows searching for collections or bookmarks based on user queries. The results are saved to the `searchresults` directory:
-
-```bash
-python search.py
-```
-
-## Logs
-
-The application logs important events and errors to log files located in the `logs` directory. Each script has its own log file for easier debugging and maintenance.
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit a pull request or open an issue if you have any suggestions or improvements.
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Create a new Pull Request.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
