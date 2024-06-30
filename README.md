@@ -21,9 +21,8 @@ RAINMARX is a Python application designed to interact with the Raindrop.io API. 
 
 Install the required libraries using the following command:
 
-# Usage
+## Usage
 
 1. Run `nested.py` to collect all bookmarks and nested collections.
 2. Run `collectid.py` to collect bookmarks from a specific parent collection.
 3. Run `updatr.py` to update the titles and excerpts of bookmarks in a collection.
-
