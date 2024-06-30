@@ -1,9 +1,22 @@
 import subprocess
+import time
+import pyfiglet
+
+
+def print_intro():
+    title = pyfiglet.figlet_format("RAINMARX", font="slant")
+    print(title)
+    print("Welcome to RAINMARX CLI App!")
+    print("Your ultimate tool for managing Raindrop.io bookmarks")
+    print("=" * 60)
 
 
 def main():
+    print_intro()
+    time.sleep(2)
+
     while True:
-        print("Choose an option:")
+        print("\nChoose an option:")
         print("1. Get all bookmarks and nested collections.")
         print("2. Get parent collection by ID.")
         print("3. Update bookmarks from a collection.")
@@ -18,7 +31,7 @@ def main():
         elif choice == '3':
             subprocess.run(["python3", "updatr.py"])
         elif choice == '4':
-            print("Exiting...")
+            print("Exiting... Goodbye!")
             break
         else:
             print("Invalid choice. Please try again.")
