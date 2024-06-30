@@ -113,6 +113,10 @@ def configure_logging(script_name):
     )
 ```
 
+## Documentation
+
+Complete documentaiton can be found in the `docs` directory.
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
