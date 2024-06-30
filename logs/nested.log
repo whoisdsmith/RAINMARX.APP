@@ -2790,3 +2790,153 @@
 2024-06-30 00:35:15,923 - INFO - Fetched total 5 bookmarks for collection 39365542
 2024-06-30 00:35:15,924 - INFO - Processed collection 929/2046: 39365542 (MAC). Bookmarks: 5. Time taken: 0:00:01.138112. Total bookmarks so far: 13403. Elapsed time: 0:24:03.985693
 2024-06-30 00:35:15,925 - INFO - Processing collection 38657145 (Logos)
+2024-06-30 00:35:16,786 - INFO - Fetched total 10 bookmarks for collection 38657145
+2024-06-30 00:35:16,786 - INFO - Processed collection 930/2046: 38657145 (Logos). Bookmarks: 10. Time taken: 0:00:00.860815. Total bookmarks so far: 13413. Elapsed time: 0:24:04.847537
+2024-06-30 00:35:16,786 - INFO - Processing collection 38657454 (Location History)
+2024-06-30 00:35:17,811 - INFO - Fetched total 11 bookmarks for collection 38657454
+2024-06-30 00:35:17,811 - INFO - Processed collection 931/2046: 38657454 (Location History). Bookmarks: 11. Time taken: 0:00:01.022811. Total bookmarks so far: 13424. Elapsed time: 0:24:05.872101
+2024-06-30 00:35:17,811 - INFO - Processing collection 38634561 (Location)
+2024-06-30 00:35:19,131 - INFO - Fetched total 0 bookmarks for collection 38634561
+2024-06-30 00:35:19,131 - INFO - Processed collection 932/2046: 38634561 (Location). Bookmarks: 0. Time taken: 0:00:01.318986. Total bookmarks so far: 13424. Elapsed time: 0:24:07.192844
+2024-06-30 00:35:19,131 - INFO - Processing collection 39365873 (LIVE CONCERTS)
+2024-06-30 00:35:20,029 - INFO - Fetched total 0 bookmarks for collection 39365873
+2024-06-30 00:35:20,029 - INFO - Processed collection 933/2046: 39365873 (LIVE CONCERTS). Bookmarks: 0. Time taken: 0:00:00.897851. Total bookmarks so far: 13424. Elapsed time: 0:24:08.090695
+2024-06-30 00:35:20,029 - INFO - Processing collection 39366513 (LINUX)
+2024-06-30 00:35:20,944 - INFO - Fetched total 1 bookmarks for collection 39366513
+2024-06-30 00:35:20,944 - INFO - Processed collection 934/2046: 39366513 (LINUX). Bookmarks: 1. Time taken: 0:00:00.914263. Total bookmarks so far: 13425. Elapsed time: 0:24:09.004957
+2024-06-30 00:35:20,945 - INFO - Processing collection 39366480 (LINUX)
+2024-06-30 00:35:21,955 - INFO - Fetched total 0 bookmarks for collection 39366480
+2024-06-30 00:35:21,955 - INFO - Processed collection 935/2046: 39366480 (LINUX). Bookmarks: 0. Time taken: 0:00:01.009748. Total bookmarks so far: 13425. Elapsed time: 0:24:10.016467
+2024-06-30 00:35:21,955 - INFO - Processing collection 39365874 (LINUX)
+2024-06-30 00:35:22,919 - INFO - Fetched total 0 bookmarks for collection 39365874
+2024-06-30 00:35:22,919 - INFO - Processed collection 936/2046: 39365874 (LINUX). Bookmarks: 0. Time taken: 0:00:00.963838. Total bookmarks so far: 13425. Elapsed time: 0:24:10.980305
+2024-06-30 00:35:22,921 - INFO - Processing collection 39365716 (LINUX)
+2024-06-30 00:35:23,853 - INFO - Fetched total 0 bookmarks for collection 39365716
+2024-06-30 00:35:23,853 - INFO - Processed collection 937/2046: 39365716 (LINUX). Bookmarks: 0. Time taken: 0:00:00.932092. Total bookmarks so far: 13425. Elapsed time: 0:24:11.914166
+2024-06-30 00:35:23,853 - INFO - Processing collection 38657467 (Linux)
+2024-06-30 00:35:24,843 - INFO - Fetched total 38 bookmarks for collection 38657467
+2024-06-30 00:35:24,843 - INFO - Processed collection 938/2046: 38657467 (Linux). Bookmarks: 38. Time taken: 0:00:00.989766. Total bookmarks so far: 13463. Elapsed time: 0:24:12.903932
+2024-06-30 00:35:24,843 - INFO - Processing collection 38657445 (Linux)
+2024-06-30 00:35:25,742 - INFO - Fetched total 6 bookmarks for collection 38657445
+2024-06-30 00:35:25,742 - INFO - Processed collection 939/2046: 38657445 (Linux). Bookmarks: 6. Time taken: 0:00:00.899570. Total bookmarks so far: 13469. Elapsed time: 0:24:13.803503
+2024-06-30 00:35:25,742 - INFO - Processing collection 39365571 (Linkvertise)
+2024-06-30 00:35:26,589 - INFO - Fetched total 1 bookmarks for collection 39365571
+2024-06-30 00:35:26,589 - INFO - Processed collection 940/2046: 39365571 (Linkvertise). Bookmarks: 1. Time taken: 0:00:00.847279. Total bookmarks so far: 13470. Elapsed time: 0:24:14.650781
+2024-06-30 00:35:26,591 - INFO - Processing collection 38657238 (Links & Lists)
+2024-06-30 00:35:27,821 - INFO - Fetched total 30 bookmarks for collection 38657238
+2024-06-30 00:35:27,821 - INFO - Processed collection 941/2046: 38657238 (Links & Lists). Bookmarks: 30. Time taken: 0:00:01.230726. Total bookmarks so far: 13500. Elapsed time: 0:24:15.882866
+2024-06-30 00:35:27,821 - INFO - Processing collection 38634628 (LinkedIn)
+2024-06-30 00:35:29,254 - INFO - Fetched total 1 bookmarks for collection 38634628
+2024-06-30 00:35:29,254 - INFO - Processed collection 942/2046: 38634628 (LinkedIn). Bookmarks: 1. Time taken: 0:00:01.432144. Total bookmarks so far: 13501. Elapsed time: 0:24:17.315010
+2024-06-30 00:35:29,254 - INFO - Processing collection 39366671 (Link Protectors)
+2024-06-30 00:35:30,492 - INFO - Fetched total 1 bookmarks for collection 39366671
+2024-06-30 00:35:30,493 - INFO - Processed collection 943/2046: 39366671 (Link Protectors). Bookmarks: 1. Time taken: 0:00:01.238312. Total bookmarks so far: 13502. Elapsed time: 0:24:18.553321
+2024-06-30 00:35:30,493 - INFO - Processing collection 38657209 (Lighting and Equipment resources)
+2024-06-30 00:35:31,837 - INFO - Fetched total 4 bookmarks for collection 38657209
+2024-06-30 00:35:31,837 - INFO - Processed collection 944/2046: 38657209 (Lighting and Equipment resources). Bookmarks: 4. Time taken: 0:00:01.344512. Total bookmarks so far: 13506. Elapsed time: 0:24:19.898854
+2024-06-30 00:35:31,837 - INFO - Processing collection 39366738 (Library Genesis)
+2024-06-30 00:35:32,845 - INFO - Fetched total 4 bookmarks for collection 39366738
+2024-06-30 00:35:32,846 - INFO - Processed collection 945/2046: 39366738 (Library Genesis). Bookmarks: 4. Time taken: 0:00:01.006454. Total bookmarks so far: 13510. Elapsed time: 0:24:20.907417
+2024-06-30 00:35:32,846 - INFO - Processing collection 39277767 (Legal Resources)
+2024-06-30 00:35:34,066 - INFO - Fetched total 10 bookmarks for collection 39277767
+2024-06-30 00:35:34,066 - INFO - Processed collection 946/2046: 39277767 (Legal Resources). Bookmarks: 10. Time taken: 0:00:01.219477. Total bookmarks so far: 13520. Elapsed time: 0:24:22.127602
+2024-06-30 00:35:34,066 - INFO - Processing collection 45137402 (LEGAL)
+2024-06-30 00:35:35,756 - INFO - Fetched total 0 bookmarks for collection 45137402
+2024-06-30 00:35:35,756 - INFO - Processed collection 947/2046: 45137402 (LEGAL). Bookmarks: 0. Time taken: 0:00:01.689706. Total bookmarks so far: 13520. Elapsed time: 0:24:23.817308
+2024-06-30 00:35:35,756 - INFO - Processing collection 45133075 (LEGAL)
+2024-06-30 00:35:36,900 - INFO - Fetched total 0 bookmarks for collection 45133075
+2024-06-30 00:35:36,901 - INFO - Processed collection 948/2046: 45133075 (LEGAL). Bookmarks: 0. Time taken: 0:00:01.144743. Total bookmarks so far: 13520. Elapsed time: 0:24:24.962051
+2024-06-30 00:35:36,902 - INFO - Processing collection 39366903 (LEGAL)
+2024-06-30 00:35:37,856 - INFO - Fetched total 1 bookmarks for collection 39366903
+2024-06-30 00:35:37,856 - INFO - Processed collection 949/2046: 39366903 (LEGAL). Bookmarks: 1. Time taken: 0:00:00.953763. Total bookmarks so far: 13521. Elapsed time: 0:24:25.917214
+2024-06-30 00:35:37,856 - INFO - Processing collection 39366901 (LEGAL)
+2024-06-30 00:35:39,086 - INFO - Fetched total 4 bookmarks for collection 39366901
+2024-06-30 00:35:39,086 - INFO - Processed collection 950/2046: 39366901 (LEGAL). Bookmarks: 4. Time taken: 0:00:01.229743. Total bookmarks so far: 13525. Elapsed time: 0:24:27.146957
+2024-06-30 00:35:39,086 - INFO - Processing collection 39366886 (LEGAL)
+2024-06-30 00:35:40,333 - INFO - Fetched total 1 bookmarks for collection 39366886
+2024-06-30 00:35:40,333 - INFO - Processed collection 951/2046: 39366886 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.247283. Total bookmarks so far: 13526. Elapsed time: 0:24:28.394240
+2024-06-30 00:35:40,333 - INFO - Processing collection 39366845 (LEGAL)
+2024-06-30 00:35:41,466 - INFO - Fetched total 1 bookmarks for collection 39366845
+2024-06-30 00:35:41,466 - INFO - Processed collection 952/2046: 39366845 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.133274. Total bookmarks so far: 13527. Elapsed time: 0:24:29.527514
+2024-06-30 00:35:41,466 - INFO - Processing collection 39366818 (LEGAL)
+2024-06-30 00:35:42,562 - INFO - Fetched total 2 bookmarks for collection 39366818
+2024-06-30 00:35:42,562 - INFO - Processed collection 953/2046: 39366818 (LEGAL). Bookmarks: 2. Time taken: 0:00:01.095790. Total bookmarks so far: 13529. Elapsed time: 0:24:30.623303
+2024-06-30 00:35:42,562 - INFO - Processing collection 39366753 (LEGAL)
+2024-06-30 00:35:43,541 - INFO - Fetched total 2 bookmarks for collection 39366753
+2024-06-30 00:35:43,541 - INFO - Processed collection 954/2046: 39366753 (LEGAL). Bookmarks: 2. Time taken: 0:00:00.978908. Total bookmarks so far: 13531. Elapsed time: 0:24:31.602211
+2024-06-30 00:35:43,541 - INFO - Processing collection 39366743 (LEGAL)
+2024-06-30 00:35:45,040 - INFO - Fetched total 1 bookmarks for collection 39366743
+2024-06-30 00:35:45,040 - INFO - Processed collection 955/2046: 39366743 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.499522. Total bookmarks so far: 13532. Elapsed time: 0:24:33.101733
+2024-06-30 00:35:45,040 - INFO - Processing collection 39366740 (LEGAL)
+2024-06-30 00:35:46,007 - INFO - Fetched total 1 bookmarks for collection 39366740
+2024-06-30 00:35:46,007 - INFO - Processed collection 956/2046: 39366740 (LEGAL). Bookmarks: 1. Time taken: 0:00:00.966554. Total bookmarks so far: 13533. Elapsed time: 0:24:34.068288
+2024-06-30 00:35:46,008 - INFO - Processing collection 39366792 (LEGAL)
+2024-06-30 00:35:47,427 - INFO - Fetched total 0 bookmarks for collection 39366792
+2024-06-30 00:35:47,427 - INFO - Processed collection 957/2046: 39366792 (LEGAL). Bookmarks: 0. Time taken: 0:00:01.418755. Total bookmarks so far: 13533. Elapsed time: 0:24:35.488051
+2024-06-30 00:35:47,428 - INFO - Processing collection 39366772 (LEGAL)
+2024-06-30 00:35:49,572 - INFO - Fetched total 0 bookmarks for collection 39366772
+2024-06-30 00:35:49,572 - INFO - Processed collection 958/2046: 39366772 (LEGAL). Bookmarks: 0. Time taken: 0:00:02.144201. Total bookmarks so far: 13533. Elapsed time: 0:24:37.633260
+2024-06-30 00:35:49,573 - INFO - Processing collection 39366550 (LEGAL)
+2024-06-30 00:35:51,599 - INFO - Fetched total 0 bookmarks for collection 39366550
+2024-06-30 00:35:51,600 - INFO - Processed collection 959/2046: 39366550 (LEGAL). Bookmarks: 0. Time taken: 0:00:02.027074. Total bookmarks so far: 13533. Elapsed time: 0:24:39.661344
+2024-06-30 00:35:51,601 - INFO - Processing collection 39366545 (LEGAL)
+2024-06-30 00:35:52,586 - INFO - Fetched total 1 bookmarks for collection 39366545
+2024-06-30 00:35:52,586 - INFO - Processed collection 960/2046: 39366545 (LEGAL). Bookmarks: 1. Time taken: 0:00:00.985090. Total bookmarks so far: 13534. Elapsed time: 0:24:40.647114
+2024-06-30 00:35:52,586 - INFO - Processing collection 39365830 (LEGAL)
+2024-06-30 00:35:53,619 - INFO - Fetched total 1 bookmarks for collection 39365830
+2024-06-30 00:35:53,619 - INFO - Processed collection 961/2046: 39365830 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.033286. Total bookmarks so far: 13535. Elapsed time: 0:24:41.680400
+2024-06-30 00:35:53,619 - INFO - Processing collection 39365828 (LEGAL)
+2024-06-30 00:35:54,633 - INFO - Fetched total 1 bookmarks for collection 39365828
+2024-06-30 00:35:54,633 - INFO - Processed collection 962/2046: 39365828 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.013696. Total bookmarks so far: 13536. Elapsed time: 0:24:42.694096
+2024-06-30 00:35:54,633 - INFO - Processing collection 39365819 (LEGAL)
+2024-06-30 00:35:56,008 - INFO - Fetched total 1 bookmarks for collection 39365819
+2024-06-30 00:35:56,008 - INFO - Processed collection 963/2046: 39365819 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.375777. Total bookmarks so far: 13537. Elapsed time: 0:24:44.069872
+2024-06-30 00:35:56,008 - INFO - Processing collection 39365784 (LEGAL)
+2024-06-30 00:35:57,415 - INFO - Fetched total 0 bookmarks for collection 39365784
+2024-06-30 00:35:57,415 - INFO - Processed collection 964/2046: 39365784 (LEGAL). Bookmarks: 0. Time taken: 0:00:01.406235. Total bookmarks so far: 13537. Elapsed time: 0:24:45.476108
+2024-06-30 00:35:57,416 - INFO - Processing collection 39365764 (LEGAL)
+2024-06-30 00:35:58,669 - INFO - Fetched total 1 bookmarks for collection 39365764
+2024-06-30 00:35:58,670 - INFO - Processed collection 965/2046: 39365764 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.254322. Total bookmarks so far: 13538. Elapsed time: 0:24:46.731880
+2024-06-30 00:35:58,670 - INFO - Processing collection 39365748 (LEGAL)
+2024-06-30 00:35:59,725 - INFO - Fetched total 1 bookmarks for collection 39365748
+2024-06-30 00:35:59,725 - INFO - Processed collection 966/2046: 39365748 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.054100. Total bookmarks so far: 13539. Elapsed time: 0:24:47.785980
+2024-06-30 00:35:59,725 - INFO - Processing collection 39365749 (LEGAL)
+2024-06-30 00:36:01,066 - INFO - Fetched total 6 bookmarks for collection 39365749
+2024-06-30 00:36:01,066 - INFO - Processed collection 967/2046: 39365749 (LEGAL). Bookmarks: 6. Time taken: 0:00:01.341497. Total bookmarks so far: 13545. Elapsed time: 0:24:49.127477
+2024-06-30 00:36:01,066 - INFO - Processing collection 39365743 (LEGAL)
+2024-06-30 00:36:02,427 - INFO - Fetched total 1 bookmarks for collection 39365743
+2024-06-30 00:36:02,428 - INFO - Processed collection 968/2046: 39365743 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.362298. Total bookmarks so far: 13546. Elapsed time: 0:24:50.489775
+2024-06-30 00:36:02,428 - INFO - Processing collection 39365707 (LEGAL)
+2024-06-30 00:36:03,834 - INFO - Fetched total 1 bookmarks for collection 39365707
+2024-06-30 00:36:03,835 - INFO - Processed collection 969/2046: 39365707 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.405584. Total bookmarks so far: 13547. Elapsed time: 0:24:51.896387
+2024-06-30 00:36:03,836 - INFO - Processing collection 39365704 (LEGAL)
+2024-06-30 00:36:04,909 - INFO - Fetched total 1 bookmarks for collection 39365704
+2024-06-30 00:36:04,910 - INFO - Processed collection 970/2046: 39365704 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.073930. Total bookmarks so far: 13548. Elapsed time: 0:24:52.971076
+2024-06-30 00:36:04,910 - INFO - Processing collection 39365701 (LEGAL)
+2024-06-30 00:36:05,937 - INFO - Fetched total 1 bookmarks for collection 39365701
+2024-06-30 00:36:05,937 - INFO - Processed collection 971/2046: 39365701 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.026164. Total bookmarks so far: 13549. Elapsed time: 0:24:53.998209
+2024-06-30 00:36:05,938 - INFO - Processing collection 39365690 (LEGAL)
+2024-06-30 00:36:07,038 - INFO - Fetched total 1 bookmarks for collection 39365690
+2024-06-30 00:36:07,040 - INFO - Processed collection 972/2046: 39365690 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.101680. Total bookmarks so far: 13550. Elapsed time: 0:24:55.100906
+2024-06-30 00:36:07,040 - INFO - Processing collection 39365687 (LEGAL)
+2024-06-30 00:36:08,158 - INFO - Fetched total 1 bookmarks for collection 39365687
+2024-06-30 00:36:08,158 - INFO - Processed collection 973/2046: 39365687 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.117377. Total bookmarks so far: 13551. Elapsed time: 0:24:56.219097
+2024-06-30 00:36:08,158 - INFO - Processing collection 39365682 (LEGAL)
+2024-06-30 00:36:09,099 - INFO - Fetched total 0 bookmarks for collection 39365682
+2024-06-30 00:36:09,099 - INFO - Processed collection 974/2046: 39365682 (LEGAL). Bookmarks: 0. Time taken: 0:00:00.941298. Total bookmarks so far: 13551. Elapsed time: 0:24:57.160395
+2024-06-30 00:36:09,100 - INFO - Processing collection 39365685 (LEGAL)
+2024-06-30 00:36:10,316 - INFO - Fetched total 5 bookmarks for collection 39365685
+2024-06-30 00:36:10,316 - INFO - Processed collection 975/2046: 39365685 (LEGAL). Bookmarks: 5. Time taken: 0:00:01.216017. Total bookmarks so far: 13556. Elapsed time: 0:24:58.377423
+2024-06-30 00:36:10,316 - INFO - Processing collection 39365675 (LEGAL)
+2024-06-30 00:36:11,547 - INFO - Fetched total 1 bookmarks for collection 39365675
+2024-06-30 00:36:11,547 - INFO - Processed collection 976/2046: 39365675 (LEGAL). Bookmarks: 1. Time taken: 0:00:01.231075. Total bookmarks so far: 13557. Elapsed time: 0:24:59.608497
+2024-06-30 00:36:11,547 - INFO - Processing collection 39365670 (LEGAL)
+2024-06-30 00:36:12,574 - INFO - Fetched total 6 bookmarks for collection 39365670
+2024-06-30 00:36:12,574 - INFO - Processed collection 977/2046: 39365670 (LEGAL). Bookmarks: 6. Time taken: 0:00:01.026545. Total bookmarks so far: 13563. Elapsed time: 0:25:00.635042
+2024-06-30 00:36:12,574 - INFO - Processing collection 39365755 (LEGAL)
+2024-06-30 00:36:13,579 - INFO - Fetched total 4 bookmarks for collection 39365755
+2024-06-30 00:36:13,579 - INFO - Processed collection 978/2046: 39365755 (LEGAL). Bookmarks: 4. Time taken: 0:00:01.005058. Total bookmarks so far: 13567. Elapsed time: 0:25:01.640100
+2024-06-30 00:36:13,579 - INFO - Processing collection 39365708 (LEGAL)
+2024-06-30 00:36:14,533 - INFO - Fetched total 0 bookmarks for collection 39365708
+2024-06-30 00:36:14,533 - INFO - Processed collection 979/2046: 39365708 (LEGAL). Bookmarks: 0. Time taken: 0:00:00.954201. Total bookmarks so far: 13567. Elapsed time: 0:25:02.594301
+2024-06-30 00:36:14,533 - INFO - Processing collection 39365702 (LEGAL)
